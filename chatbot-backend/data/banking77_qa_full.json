@@ -1,0 +1,2758 @@
+[
+  {
+    "question": "What savings accounts are available at your bank?",
+    "answer": "We offer Regular Savings (minimum balance IDR 50,000), Kids Savings (for under 17 years), and Time Deposit Savings (2-5% annual interest). Visit a branch or our website for details."
+  },
+  {
+    "question": "How much is the admin fee for a Regular Savings account?",
+    "answer": "The monthly admin fee for Regular Savings is IDR 15,000, waived if the average balance exceeds IDR 1,000,000."
+  },
+  {
+    "question": "What types of debit cards do you have?",
+    "answer": "We provide Silver Debit Card (daily limit IDR 25 million), Gold (IDR 50 million), and Platinum (IDR 100 million). Apply at a branch or through the Halo Satoshi app."
+  },
+  {
+    "question": "Why is my interbank transfer not going through?",
+    "answer": "The interbank transfer limit for a Silver Debit Card is IDR 10 million daily. Check your balance and recipient details. If issues persist, call 1500-888."
+  },
+  {
+    "question": "How do I change my debit card PIN?",
+    "answer": "Visit an ATM, insert your card, select 'Change PIN,' enter your current PIN, and set a new one. If you forgot your PIN, visit a branch with your ID."
+  },
+  {
+    "question": "What’s the interest rate for Time Deposit Savings?",
+    "answer": "Time Deposit Savings offers 2.5% to 4.5% annual interest, depending on the term (6 months to 5 years). Contact a branch for specific rates."
+  },
+  {
+    "question": "How do I open a Kids Savings account?",
+    "answer": "Visit a branch with your child’s birth certificate and your ID. The minimum initial deposit is IDR 25,000."
+  },
+  {
+    "question": "Is there a fee for closing my savings account?",
+    "answer": "A IDR 50,000 fee applies if the account is closed within 6 months of opening. No fee applies after that."
+  },
+  {
+    "question": "What’s the daily transfer limit for a Platinum Debit Card?",
+    "answer": "The daily transfer limit for a Platinum Debit Card is IDR 100 million, including interbank transfers."
+  },
+  {
+    "question": "How do I activate my credit card?",
+    "answer": "Call 1500-888 or use the Halo Satoshi app to activate your credit card. You’ll need your card number and ID for verification."
+  },
+  {
+    "question": "Why was my transaction declined?",
+    "answer": "Your transaction may have exceeded the daily limit (e.g., IDR 25 million for Silver Debit Card) or lacked sufficient funds. Check your balance or call 1500-888."
+  },
+  {
+    "question": "How can I increase my credit card limit?",
+    "answer": "Submit a request at a branch with your latest salary slip and ID. Approval depends on your credit history and income."
+  },
+  {
+    "question": "What’s the minimum balance for Regular Savings?",
+    "answer": "The minimum balance for Regular Savings is IDR 50,000. A IDR 20,000 penalty applies if the balance falls below this."
+  },
+  {
+    "question": "How do I check my account balance?",
+    "answer": "Use the Halo Satoshi app, visit an ATM, or send an SMS to 3355 with format: BAL <account number>. Register for SMS banking at a branch."
+  },
+  {
+    "question": "What credit cards are available for new customers?",
+    "answer": "New customers can apply for a Silver Credit Card (limit up to IDR 10 million) or Gold (up to IDR 25 million). Submit your ID and income proof at a branch."
+  },
+  {
+    "question": "Why is there a fee for my ATM withdrawal?",
+    "answer": "Withdrawals at non-partner ATMs incur a IDR 7,500 fee. Use our bank’s ATMs or partner networks to avoid charges."
+  },
+  {
+    "question": "How do I report a lost debit card?",
+    "answer": "Call 1500-888 immediately to block your card. Visit a branch with your ID to request a replacement (IDR 25,000 fee)."
+  },
+  {
+    "question": "What’s the interest rate for Kids Savings?",
+    "answer": "Kids Savings offers a 1.5% annual interest rate, calculated monthly based on the daily balance."
+  },
+  {
+    "question": "How do I transfer money to another bank?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Interbank Transfer,’ enter the recipient’s bank code, account number, and amount. The fee is IDR 6,500 per transfer."
+  },
+  {
+    "question": "Why can’t I log in to mobile banking?",
+    "answer": "Ensure your username and password are correct. If locked, reset your password via the app or call 1500-888 for assistance."
+  },
+  {
+    "question": "What’s the fee for an inactive savings account?",
+    "answer": "An inactive Regular Savings account (no transactions for 6 months) incurs a IDR 10,000 monthly fee until reactivated."
+  },
+  {
+    "question": "How do I apply for a Platinum Credit Card?",
+    "answer": "Visit a branch with your ID, salary slip, and proof of income (minimum IDR 15 million/month). The limit is up to IDR 100 million."
+  },
+  {
+    "question": "What’s the daily ATM withdrawal limit for a Gold Debit Card?",
+    "answer": "The daily ATM withdrawal limit for a Gold Debit Card is IDR 10 million."
+  },
+  {
+    "question": "How do I register for SMS banking?",
+    "answer": "Visit a branch with your ID and register your phone number. You’ll receive a confirmation SMS to start using the service."
+  },
+  {
+    "question": "Why is my credit card payment overdue?",
+    "answer": "Check your statement in the Halo Satoshi app for due dates. Late payments incur a 2.5% fee of the outstanding balance. Pay via the app or at a branch."
+  },
+  {
+    "question": "How do I block my credit card?",
+    "answer": "Call 1500-888 or use the Halo Satoshi app to block your credit card instantly. Provide your card number and ID for verification."
+  },
+  {
+    "question": "What’s the penalty for low balance in Time Deposit Savings?",
+    "answer": "Early withdrawal from Time Deposit Savings incurs a 1% penalty of the principal amount. Maintain the agreed term to avoid fees."
+  },
+  {
+    "question": "How do I check my credit card transactions?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and view your transaction history. You can also request a statement at a branch."
+  },
+  {
+    "question": "What’s the transfer fee for international transactions?",
+    "answer": "International transfers incur a IDR 50,000 fee plus 0.5% of the amount. Use the Halo Satoshi app for faster processing."
+  },
+  {
+    "question": "How do I upgrade my debit card to Platinum?",
+    "answer": "Visit a branch with your ID and current debit card. The upgrade fee is IDR 50,000, and the new card will be issued within 7 days."
+  },
+  {
+    "question": "Why is my mobile banking app not working?",
+    "answer": "Ensure you have the latest app version. Clear the cache or reinstall the app. If issues persist, contact 1500-888."
+  },
+  {
+    "question": "What’s the minimum deposit for Time Deposit Savings?",
+    "answer": "The minimum deposit for Time Deposit Savings is IDR 10 million for a 6-month term."
+  },
+  {
+    "question": "How do I dispute a transaction on my credit card?",
+    "answer": "Call 1500-888 or visit a branch with your card details and transaction receipt. Disputes are processed within 14 business days."
+  },
+  {
+    "question": "What’s the annual fee for a Gold Credit Card?",
+    "answer": "The annual fee for a Gold Credit Card is IDR 500,000, waived for the first year."
+  },
+  {
+    "question": "How do I close my Kids Savings account?",
+    "answer": "Visit a branch with your ID and your child’s birth certificate. No fee applies if the account is over 6 months old."
+  },
+  {
+    "question": "Why did I get charged for an ATM transaction?",
+    "answer": "Using a non-partner ATM incurs a IDR 7,500 fee. Check our website for partner ATM locations."
+  },
+  {
+    "question": "How do I set up auto-debit for my credit card bill?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and enable auto-debit by linking your savings account."
+  },
+  {
+    "question": "What’s the daily limit for online transactions with a Silver Debit Card?",
+    "answer": "The daily online transaction limit for a Silver Debit Card is IDR 15 million."
+  },
+  {
+    "question": "How do I replace a damaged debit card?",
+    "answer": "Visit a branch with your ID. A replacement card costs IDR 25,000 and will be issued within 7 days."
+  },
+  {
+    "question": "What’s the interest rate for Regular Savings?",
+    "answer": "Regular Savings offers a 1% annual interest rate, calculated monthly based on the daily balance."
+  },
+  {
+    "question": "How do I transfer money to an international account?",
+    "answer": "Use the Halo Satoshi app, select ‘International Transfer,’ enter the SWIFT code, recipient’s account, and amount. The fee is IDR 50,000 plus 0.5%."
+  },
+  {
+    "question": "Why is my savings account marked as dormant?",
+    "answer": "No transactions for 6 months marks an account as dormant. Reactivate it at a branch with your ID; a IDR 25,000 fee may apply."
+  },
+  {
+    "question": "How do I apply for a Silver Credit Card?",
+    "answer": "Submit your ID and salary slip (minimum income IDR 3 million/month) at a branch. The limit is up to IDR 10 million."
+  },
+  {
+    "question": "What’s the fee for a balance inquiry at a non-partner ATM?",
+    "answer": "A balance inquiry at a non-partner ATM costs IDR 4,000. Use our ATMs to avoid fees."
+  },
+  {
+    "question": "How do I enable online banking?",
+    "answer": "Register at a branch or through the Halo Satoshi app using your account number and debit card. Complete SMS verification to activate."
+  },
+  {
+    "question": "Why was my credit card application rejected?",
+    "answer": "Rejections may occur due to insufficient income or incomplete documents. Contact 1500-888 or visit a branch for details."
+  },
+  {
+    "question": "What’s the penalty for late credit card payments?",
+    "answer": "Late payments incur a 2.5% fee of the outstanding balance, with a minimum of IDR 50,000."
+  },
+  {
+    "question": "How do I check my Time Deposit maturity date?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch. You’ll receive an SMS reminder one month before maturity."
+  },
+  {
+    "question": "What’s the limit for contactless payments with a Platinum Debit Card?",
+    "answer": "The contactless payment limit for a Platinum Debit Card is IDR 1 million per transaction, with a daily cap of IDR 100 million."
+  },
+  {
+    "question": "How do I open a Time Deposit Savings account?",
+    "answer": "Visit a branch with your ID and a minimum deposit of IDR 10 million. Choose a term from 6 months to 5 years."
+  },
+  {
+    "question": "Why is my debit card not working for online purchases?",
+    "answer": "Ensure online transactions are enabled in the Halo Satoshi app. The daily limit is IDR 15 million for a Silver Debit Card."
+  },
+  {
+    "question": "How do I stop SMS banking notifications?",
+    "answer": "Visit a branch or call 1500-888 to deactivate SMS banking. You’ll need your ID for verification."
+  },
+  {
+    "question": "What’s the fee for a credit card statement reprint?",
+    "answer": "A reprinted credit card statement costs IDR 10,000 per month requested. Request it at a branch."
+  },
+  {
+    "question": "How do I link my savings account to mobile banking?",
+    "answer": "Download the Halo Satoshi app, register with your account number and debit card, and verify via SMS."
+  },
+  {
+    "question": "Why is my transfer to another account delayed?",
+    "answer": "Transfers may take 1-2 hours for interbank processing. Check the recipient’s details and call 1500-888 if delayed beyond 24 hours."
+  },
+  {
+    "question": "What’s the annual fee for a Platinum Credit Card?",
+    "answer": "The annual fee for a Platinum Credit Card is IDR 1,000,000, waived for the first year."
+  },
+  {
+    "question": "How do I check my debit card transaction history?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Debit Card,’ and view your transactions. Alternatively, visit an ATM or branch."
+  },
+  {
+    "question": "What’s the fee for early withdrawal from Kids Savings?",
+    "answer": "Early withdrawal from Kids Savings within 6 months incurs a IDR 25,000 fee. No fee applies after that."
+  },
+  {
+    "question": "How do I activate contactless payments on my debit card?",
+    "answer": "Enable contactless payments in the Halo Satoshi app or at a branch. No additional fee applies."
+  },
+  {
+    "question": "Why is my credit card limit lower than expected?",
+    "answer": "Credit limits are based on income and credit history. Request a review at a branch with updated income proof."
+  },
+  {
+    "question": "What’s the daily withdrawal limit for a Silver Debit Card?",
+    "answer": "The daily ATM withdrawal limit for a Silver Debit Card is IDR 7 million."
+  },
+  {
+    "question": "How do I report an unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report the transaction. Provide your card details and transaction date for investigation."
+  },
+  {
+    "question": "What’s the interest rate for a 12-month Time Deposit?",
+    "answer": "A 12-month Time Deposit offers a 3.5% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I change my mobile banking password?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ select ‘Change Password,’ and follow the verification steps."
+  },
+  {
+    "question": "Why was I charged for an international ATM withdrawal?",
+    "answer": "International ATM withdrawals incur a IDR 25,000 fee. Use partner ATMs abroad to reduce costs."
+  },
+  {
+    "question": "How do I apply for a Gold Debit Card?",
+    "answer": "Visit a branch with your ID. The issuance fee is IDR 25,000, and the card will be ready in 7 days."
+  },
+  {
+    "question": "What’s the fee for a dormant Kids Savings account?",
+    "answer": "A dormant Kids Savings account (no activity for 6 months) incurs a IDR 5,000 monthly fee until reactivated."
+  },
+  {
+    "question": "How do I check my credit card balance?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and view your balance. Alternatively, call 1500-888."
+  },
+  {
+    "question": "What’s the limit for transfers via mobile banking?",
+    "answer": "The mobile banking transfer limit is IDR 100 million daily for Platinum Debit Card holders."
+  },
+  {
+    "question": "How do I deactivate my credit card?",
+    "answer": "Call 1500-888 or visit a branch to deactivate your credit card. You’ll need your ID and card number."
+  },
+  {
+    "question": "Why is my savings account balance negative?",
+    "answer": "A negative balance may result from admin fees or penalties. Check your transaction history in the app or visit a branch."
+  },
+  {
+    "question": "How do I open a Regular Savings account online?",
+    "answer": "Download the Halo Satoshi app, select ‘Open Account,’ upload your ID, and deposit IDR 50,000 via transfer."
+  },
+  {
+    "question": "What’s the fee for a declined transaction?",
+    "answer": "A declined transaction due to insufficient funds incurs a IDR 5,000 fee for debit cards."
+  },
+  {
+    "question": "How do I enable notifications for my savings account?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and enable transaction notifications for your account."
+  },
+  {
+    "question": "Why is my credit card not working for online payments?",
+    "answer": "Ensure online payments are enabled in the Halo Satoshi app. The daily limit is IDR 25 million for a Gold Credit Card."
+  },
+  {
+    "question": "What’s the minimum balance for Kids Savings?",
+    "answer": "The minimum balance for Kids Savings is IDR 10,000 to avoid a IDR 5,000 monthly fee."
+  },
+  {
+    "question": "How do I transfer money using an ATM?",
+    "answer": "Insert your card, select ‘Transfer,’ choose ‘To Other Account,’ enter the account number and amount, and confirm."
+  },
+  {
+    "question": "Why did my Time Deposit interest decrease?",
+    "answer": "Interest rates vary based on market conditions. Check your contract or contact a branch for current rates."
+  },
+  {
+    "question": "How do I update my personal details for my account?",
+    "answer": "Visit a branch with your ID or update select details (e.g., phone number) in the Halo Satoshi app."
+  },
+  {
+    "question": "What’s the fee for a replacement credit card?",
+    "answer": "A replacement credit card costs IDR 50,000 and takes 7 days to issue."
+  },
+  {
+    "question": "How do I check my savings account interest earned?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view your interest, credited monthly."
+  },
+  {
+    "question": "Why is my debit card blocked?",
+    "answer": "Your card may be blocked due to multiple incorrect PIN entries. Call 1500-888 or visit a branch to unblock it."
+  },
+  {
+    "question": "What’s the daily limit for credit card transactions?",
+    "answer": "The daily transaction limit is IDR 10 million for a Silver Credit Card and IDR 100 million for Platinum."
+  },
+  {
+    "question": "How do I enroll in online banking?",
+    "answer": "Download the Halo Satoshi app, register with your account number and debit card, and verify via SMS."
+  },
+  {
+    "question": "Why is there a fee for my credit card cash advance?",
+    "answer": "A cash advance incurs a 4% fee of the amount withdrawn, with a minimum of IDR 50,000."
+  },
+  {
+    "question": "How do I withdraw money from my Time Deposit early?",
+    "answer": "Visit a branch with your ID. Early withdrawal incurs a 1% penalty of the principal amount."
+  },
+  {
+    "question": "What’s the limit for ATM transfers with a Silver Debit Card?",
+    "answer": "The ATM transfer limit for a Silver Debit Card is IDR 25 million daily."
+  },
+  {
+    "question": "How do I dispute an ATM transaction?",
+    "answer": "Call 1500-888 or visit a branch with your transaction receipt. Disputes are resolved within 14 days."
+  },
+  {
+    "question": "Why is my mobile banking account locked?",
+    "answer": "Multiple incorrect login attempts may lock your account. Reset your password via the app or call 1500-888."
+  },
+  {
+    "question": "What’s the fee for international credit card transactions?",
+    "answer": "International transactions incur a 2.5% fee of the transaction amount."
+  },
+  {
+    "question": "How do I check my debit card limit?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Debit Card,’ and view your daily limits."
+  },
+  {
+    "question": "What’s the penalty for not maintaining the minimum balance?",
+    "answer": "A IDR 20,000 monthly penalty applies for Regular Savings if the balance falls below IDR 50,000."
+  },
+  {
+    "question": "How do I cancel a scheduled transfer?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Scheduled Transactions,’ and delete the transfer."
+  },
+  {
+    "question": "Why is my savings account interest not credited?",
+    "answer": "Interest is credited monthly. Check your statement in the app or contact a branch if it’s missing."
+  },
+  {
+    "question": "How do I apply for a loan with my savings account?",
+    "answer": "Visit a branch with your ID, salary slip, and account details. Loan eligibility depends on your account history."
+  },
+  {
+    "question": "What’s the fee for a debit card transaction decline?",
+    "answer": "A declined debit card transaction due to insufficient funds costs IDR 5,000."
+  },
+  {
+    "question": "How do I enable international transactions on my credit card?",
+    "answer": "Call 1500-888 or enable international transactions in the Halo Satoshi app."
+  },
+  {
+    "question": "Why is my ATM withdrawal limit lower than expected?",
+    "answer": "Your limit may be restricted due to account type. Silver Debit Card has a IDR 7 million daily withdrawal limit."
+  },
+  {
+    "question": "How do I check my Time Deposit balance?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view your Time Deposit balance."
+  },
+  {
+    "question": "What’s the annual fee for a Silver Credit Card?",
+    "answer": "The annual fee for a Silver Credit Card is IDR 250,000, waived for the first year."
+  },
+  {
+    "question": "How do I report a phishing attempt on my account?",
+    "answer": "Call 1500-888 immediately and do not share your details. Visit a branch to secure your account."
+  },
+  {
+    "question": "Why is my credit card payment not reflected?",
+    "answer": "Payments may take 1-2 business days to process. Check your statement in the app or call 1500-888."
+  },
+  {
+    "question": "How do I change my credit card PIN?",
+    "answer": "Call 1500-888 or visit a branch to reset your credit card PIN. You’ll need your ID for verification."
+  },
+  {
+    "question": "What’s the fee for a Time Deposit statement reprint?",
+    "answer": "A reprinted Time Deposit statement costs IDR 10,000 per request at a branch."
+  },
+  {
+    "question": "How do I transfer money to my Kids Savings account?",
+    "answer": "Use the Halo Satoshi app, select ‘Transfer,’ and enter your Kids Savings account number. No fee applies."
+  },
+  {
+    "question": "Why is my debit card not accepted abroad?",
+    "answer": "Ensure international transactions are enabled. Call 1500-888 or enable it in the Halo Satoshi app."
+  },
+  {
+    "question": "What’s the daily limit for mobile banking transfers with a Gold Debit Card?",
+    "answer": "The daily mobile banking transfer limit for a Gold Debit Card is IDR 50 million."
+  },
+  {
+    "question": "How do I check my savings account statement?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Account,’ and view your statement. Request a printed copy at a branch for IDR 10,000."
+  },
+  {
+    "question": "Why is my credit card blocked?",
+    "answer": "Your card may be blocked due to suspicious activity. Call 1500-888 to verify and unblock it."
+  },
+  {
+    "question": "How do I renew my Time Deposit account?",
+    "answer": "Visit a branch or select auto-renewal in the Halo Satoshi app before maturity."
+  },
+  {
+    "question": "What’s the fee for a non-partner ATM withdrawal?",
+    "answer": "A non-partner ATM withdrawal costs IDR 7,500 per transaction."
+  },
+  {
+    "question": "How do I link my credit card to mobile banking?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Add Card,’ and enter your credit card details for verification."
+  },
+  {
+    "question": "Why is my savings account restricted?",
+    "answer": "Restrictions may occur due to incomplete KYC. Visit a branch with your ID to resolve it."
+  },
+  {
+    "question": "How do I apply for a debit card for my Kids Savings?",
+    "answer": "Kids Savings accounts are not eligible for debit cards until the account holder is 17."
+  },
+  {
+    "question": "What’s the interest rate for a 6-month Time Deposit?",
+    "answer": "A 6-month Time Deposit offers a 2.5% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop credit card notifications?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and disable credit card notifications."
+  },
+  {
+    "question": "Why is my interbank transfer fee higher than usual?",
+    "answer": "Interbank transfers cost IDR 6,500, but additional fees may apply for urgent transfers. Check your transaction details."
+  },
+  {
+    "question": "How do I check my credit card reward points?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and view your reward points balance."
+  },
+  {
+    "question": "What’s the fee for a savings account statement reprint?",
+    "answer": "A reprinted savings account statement costs IDR 10,000 per month requested."
+  },
+  {
+    "question": "How do I enable auto-debit for my savings account?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Auto-Debit,’ and link your savings account to a biller."
+  },
+  {
+    "question": "Why is my debit card transaction pending?",
+    "answer": "Pending transactions may take 1-2 business days to process. Check the app or call 1500-888 if delayed."
+  },
+  {
+    "question": "How do I open a joint savings account?",
+    "answer": "Visit a branch with both account holders’ IDs and a minimum deposit of IDR 100,000."
+  },
+  {
+    "question": "What’s the daily limit for contactless payments with a Gold Debit Card?",
+    "answer": "The contactless payment limit for a Gold Debit Card is IDR 1 million per transaction, up to IDR 50 million daily."
+  },
+  {
+    "question": "How do I report a lost credit card?",
+    "answer": "Call 1500-888 to block your card immediately. Visit a branch with your ID to request a replacement."
+  },
+  {
+    "question": "Why is my Time Deposit account not earning interest?",
+    "answer": "Interest is credited at maturity. Check your contract or contact a branch for details."
+  },
+  {
+    "question": "How do I change my debit card limit?",
+    "answer": "Visit a branch or adjust temporary limits in the Halo Satoshi app for eligible accounts."
+  },
+  {
+    "question": "What’s the fee for a declined credit card transaction?",
+    "answer": "A declined credit card transaction incurs no fee, but check your balance to avoid declines."
+  },
+  {
+    "question": "How do I check my mobile banking transaction history?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Account,’ and view your transaction history."
+  },
+  {
+    "question": "Why is my savings account not accessible online?",
+    "answer": "Ensure your account is linked to online banking. Register via the app or visit a branch."
+  },
+  {
+    "question": "How do I apply for a Platinum Debit Card?",
+    "answer": "Visit a branch with your ID. The issuance fee is IDR 50,000, and the card is issued in 7 days."
+  },
+  {
+    "question": "What’s the penalty for early closure of a Regular Savings account?",
+    "answer": "Closing a Regular Savings account within 6 months incurs a IDR 50,000 fee."
+  },
+  {
+    "question": "How do I enable SMS notifications for my credit card?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and enable SMS notifications for your credit card."
+  },
+  {
+    "question": "Why is my ATM card not working?",
+    "answer": "Your card may be damaged or blocked. Visit a branch or call 1500-888 to diagnose the issue."
+  },
+  {
+    "question": "How do I check my Kids Savings balance?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view your Kids Savings balance."
+  },
+  {
+    "question": "What’s the fee for a credit card cash withdrawal?",
+    "answer": "A credit card cash withdrawal incurs a 4% fee of the amount, with a minimum of IDR 50,000."
+  },
+  {
+    "question": "How do I transfer money to my Time Deposit account?",
+    "answer": "Visit a branch or use the Halo Satoshi app to transfer funds to your Time Deposit account."
+  },
+  {
+    "question": "Why is my credit card statement delayed?",
+    "answer": "Statements are issued monthly. Check the Halo Satoshi app or call 1500-888 if not received."
+  },
+  {
+    "question": "How do I activate my debit card for online transactions?",
+    "answer": "Enable online transactions in the Halo Satoshi app or at a branch. No fee applies."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Platinum Debit Card?",
+    "answer": "The daily interbank transfer limit for a Platinum Debit Card is IDR 100 million."
+  },
+  {
+    "question": "How do I dispute a savings account transaction?",
+    "answer": "Call 1500-888 or visit a branch with your transaction details. Disputes are resolved within 14 days."
+  },
+  {
+    "question": "Why is my mobile banking password not working?",
+    "answer": "Ensure the password is correct. Reset it via the app or call 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I check my credit card payment due date?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and view your due date."
+  },
+  {
+    "question": "What’s the fee for a Kids Savings statement reprint?",
+    "answer": "A reprinted Kids Savings statement costs IDR 5,000 per month requested."
+  },
+  {
+    "question": "How do I enable international debit card transactions?",
+    "answer": "Call 1500-888 or enable international transactions in the Halo Satoshi app."
+  },
+  {
+    "question": "Why is my savings account not earning interest?",
+    "answer": "Interest is credited monthly for Regular Savings. Check your balance or contact a branch."
+  },
+  {
+    "question": "How do I change my credit card billing address?",
+    "answer": "Visit a branch with your ID or update your address in the Halo Satoshi app."
+  },
+  {
+    "question": "What’s the daily limit for ATM withdrawals with a Platinum Debit Card?",
+    "answer": "The daily ATM withdrawal limit for a Platinum Debit Card is IDR 15 million."
+  },
+  {
+    "question": "How do I report a suspicious email about my account?",
+    "answer": "Forward the email to support@halosatoshi.com and call 1500-888. Do not click any links."
+  },
+  {
+    "question": "Why is my Time Deposit renewal delayed?",
+    "answer": "Renewals are processed at maturity. Confirm your renewal settings in the app or at a branch."
+  },
+  {
+    "question": "How do I check my debit card reward points?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Debit Card,’ and view your reward points."
+  },
+  {
+    "question": "What’s the fee for a declined ATM transaction?",
+    "answer": "A declined ATM transaction due to insufficient funds costs IDR 5,000."
+  },
+  {
+    "question": "How do I link my Kids Savings to mobile banking?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Add Account,’ and enter your Kids Savings details."
+  },
+  {
+    "question": "Why is my credit card not accepted online?",
+    "answer": "Ensure online transactions are enabled in the app. The daily limit is IDR 10 million for a Silver Credit Card."
+  },
+  {
+    "question": "How do I open a Kids Savings account online?",
+    "answer": "Download the Halo Satoshi app, select ‘Open Account,’ upload your ID and child’s birth certificate, and deposit IDR 25,000."
+  },
+  {
+    "question": "What’s the interest rate for a 24-month Time Deposit?",
+    "answer": "A 24-month Time Deposit offers a 4% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop debit card notifications?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and disable debit card notifications."
+  },
+  {
+    "question": "Why is my savings account transaction declined?",
+    "answer": "Declines may occur due to insufficient funds or restrictions. Check your balance or call 1500-888."
+  },
+  {
+    "question": "How do I check my credit card limit?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and view your available limit."
+  },
+  {
+    "question": "What’s the fee for a savings account balance inquiry?",
+    "answer": "A balance inquiry via SMS banking costs IDR 1,000. Use the app or ATM for free."
+  },
+  {
+    "question": "How do I enable auto-renewal for my Time Deposit?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to enable auto-renewal before maturity."
+  },
+  {
+    "question": "Why is my debit card not working for contactless payments?",
+    "answer": "Ensure contactless payments are enabled in the app. Visit a branch if the issue persists."
+  },
+  {
+    "question": "How do I check my Kids Savings interest earned?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view interest credited monthly."
+  },
+  {
+    "question": "What’s the fee for a credit card limit increase request?",
+    "answer": "A credit card limit increase request is free, but approval depends on your income."
+  },
+  {
+    "question": "How do I transfer money to a credit card account?",
+    "answer": "Use the Halo Satoshi app, select ‘Transfer,’ and enter your credit card number as the destination."
+  },
+  {
+    "question": "Why is my mobile banking app slow?",
+    "answer": "Ensure you have a stable internet connection. Update or reinstall the app if issues persist."
+  },
+  {
+    "question": "How do I apply for a Regular Savings account?",
+    "answer": "Visit a branch with your ID and deposit IDR 50,000, or apply online via the Halo Satoshi app."
+  },
+  {
+    "question": "What’s the daily limit for online purchases with a Platinum Credit Card?",
+    "answer": "The daily online purchase limit for a Platinum Credit Card is IDR 100 million."
+  },
+  {
+    "question": "How do I report a lost Kids Savings passbook?",
+    "answer": "Visit a branch with your ID and your child’s birth certificate. A replacement passbook costs IDR 25,000."
+  },
+  {
+    "question": "Why is my savings account not linked to my debit card?",
+    "answer": "Visit a branch to link your savings account to your debit card. Bring your ID and account details."
+  },
+  {
+    "question": "How do I check my Time Deposit interest rate?",
+    "answer": "Log in to the Halo Satoshi app or contact a branch for your Time Deposit interest rate."
+  },
+  {
+    "question": "What’s the fee for a debit card statement reprint?",
+    "answer": "A reprinted debit card statement costs IDR 10,000 per month requested."
+  },
+  {
+    "question": "How do I enable notifications for my credit card transactions?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and enable transaction notifications."
+  },
+  {
+    "question": "Why is my ATM transaction not recorded?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check your balance or call 1500-888 if missing."
+  },
+  {
+    "question": "How do I change my mobile banking phone number?",
+    "answer": "Visit a branch with your ID to update your registered phone number."
+  },
+  {
+    "question": "What’s the fee for a savings account transfer to another bank?",
+    "answer": "An interbank transfer from a savings account costs IDR 6,500 per transaction."
+  },
+  {
+    "question": "How do I check my debit card expiration date?",
+    "answer": "Check the front of your debit card or view it in the Halo Satoshi app under ‘Card Details.’"
+  },
+  {
+    "question": "Why is my credit card payment rejected?",
+    "answer": "Ensure sufficient funds in your linked account. Check payment details or call 1500-888."
+  },
+  {
+    "question": "How do I open a Time Deposit account online?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Open Time Deposit,’ and deposit a minimum of IDR 10 million."
+  },
+  {
+    "question": "What’s the daily limit for ATM transfers with a Gold Debit Card?",
+    "answer": "The daily ATM transfer limit for a Gold Debit Card is IDR 50 million."
+  },
+  {
+    "question": "How do I stop auto-debit for my credit card?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Auto-Debit,’ and disable the linked payment."
+  },
+  {
+    "question": "Why is my savings account not showing in mobile banking?",
+    "answer": "Ensure your account is linked. Register it in the Halo Satoshi app or visit a branch."
+  },
+  {
+    "question": "How do I apply for a Kids Savings passbook?",
+    "answer": "Visit a branch with your ID and your child’s birth certificate. The passbook is issued free."
+  },
+  {
+    "question": "What’s the interest rate for a 36-month Time Deposit?",
+    "answer": "A 36-month Time Deposit offers a 4.5% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I check my credit card transaction disputes?",
+    "answer": "Log in to the Halo Satoshi app or call 1500-888 to track your dispute status."
+  },
+  {
+    "question": "Why is my debit card not working at POS terminals?",
+    "answer": "Ensure sufficient funds and check if POS transactions are enabled. Call 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I enable online banking for my Kids Savings?",
+    "answer": "Visit a branch to link your Kids Savings to online banking. Online access is limited for minors."
+  },
+  {
+    "question": "What’s the fee for a credit card balance transfer?",
+    "answer": "A credit card balance transfer incurs a 2% fee of the transferred amount."
+  },
+  {
+    "question": "How do I check my savings account transaction limits?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view your account’s transaction limits."
+  },
+  {
+    "question": "Why is my Time Deposit account restricted?",
+    "answer": "Restrictions may occur due to incomplete documentation. Visit a branch with your ID to resolve."
+  },
+  {
+    "question": "How do I change my debit card PIN at an ATM?",
+    "answer": "Insert your card, select ‘Change PIN,’ enter your current PIN, and set a new one."
+  },
+  {
+    "question": "What’s the daily limit for online banking transfers with a Silver Debit Card?",
+    "answer": "The daily online banking transfer limit for a Silver Debit Card is IDR 25 million."
+  },
+  {
+    "question": "How do I report a credit card phishing attempt?",
+    "answer": "Call 1500-888 and forward the suspicious message to support@halosatoshi.com."
+  },
+  {
+    "question": "Why is my savings account balance not updating?",
+    "answer": "Balances may take 1-2 hours to update. Check the app or call 1500-888 if delayed."
+  },
+  {
+    "question": "How do I check my debit card transaction disputes?",
+    "answer": "Call 1500-888 or log in to the Halo Satoshi app to track your dispute status."
+  },
+  {
+    "question": "What’s the fee for a Time Deposit early withdrawal?",
+    "answer": "Early withdrawal from a Time Deposit incurs a 1% penalty of the principal amount."
+  },
+  {
+    "question": "How do I enable contactless payments for my credit card?",
+    "answer": "Enable contactless payments in the Halo Satoshi app or at a branch."
+  },
+  {
+    "question": "Why is my mobile banking app crashing?",
+    "answer": "Update the app to the latest version or reinstall it. Contact 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I apply for a Silver Debit Card?",
+    "answer": "Visit a branch with your ID. The issuance fee is IDR 15,000, and the card is issued in 7 days."
+  },
+  {
+    "question": "What’s the daily limit for POS transactions with a Platinum Debit Card?",
+    "answer": "The daily POS transaction limit for a Platinum Debit Card is IDR 100 million."
+  },
+  {
+    "question": "How do I check my Kids Savings transaction history?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view your Kids Savings transactions."
+  },
+  {
+    "question": "Why is my credit card not working for cash advances?",
+    "answer": "Ensure cash advances are enabled. The limit is 40% of your credit card limit."
+  },
+  {
+    "question": "How do I transfer money to my Regular Savings account?",
+    "answer": "Use the Halo Satoshi app, select ‘Transfer,’ and enter your Regular Savings account number."
+  },
+  {
+    "question": "What’s the fee for a savings account passbook replacement?",
+    "answer": "A replacement passbook for a savings account costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable SMS banking for my savings account?",
+    "answer": "Visit a branch with your ID to register your phone number for SMS banking."
+  },
+  {
+    "question": "Why is my debit card transaction not showing?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888 if missing."
+  },
+  {
+    "question": "How do I check my Time Deposit renewal options?|",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view renewal options."
+  },
+  {
+    "question": "What’s the daily limit for credit card cash advances?",
+    "answer": "The daily cash advance limit is 40% of your credit card limit, up to IDR 40 million for Platinum."
+  },
+  {
+    "question": "How do I report a savings account phishing attempt?",
+    "answer": "Call 1500-888 and forward the suspicious message to support@halosatoshi.com."
+  },
+  {
+    "question": "Why is my credit card transaction declined?",
+    "answer": "Declines may occur due to insufficient credit or restrictions. Check your limit or call 1500-888."
+  },
+  {
+    "question": "How do I change my savings account type?",
+    "answer": "Visit a branch with your ID to convert your savings account type."
+  },
+  {
+    "question": "What’s the fee for a credit card replacement?",
+    "answer": "A replacement credit card costs IDR 50,000 and is issued within 7 days."
+  },
+  {
+    "question": "How do I check my mobile banking limits?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and view your transaction limits."
+  },
+  {
+    "question": "Why is my Time Deposit interest not credited?",
+    "answer": "Interest is credited at maturity. Contact a branch if not reflected."
+  },
+  {
+    "question": "How do I enable online purchases for my debit card?",
+    "answer": "Enable online purchases in the Halo Satoshi app or at a branch."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Gold Debit Card?",
+    "answer": "The daily interbank transfer limit for a Gold Debit Card is IDR 50 million."
+  },
+  {
+    "question": "How do I check my savings account restrictions?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view any account restrictions."
+  },
+  {
+    "question": "Why is my credit card not working abroad?",
+    "answer": "Ensure international transactions are enabled. Call 1500-888 to activate."
+  },
+  {
+    "question": "How do I apply for a Time Deposit renewal?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to renew your Time Deposit."
+  },
+  {
+    "question": "What’s the fee for a debit card balance inquiry?",
+    "answer": "A debit card balance inquiry via SMS costs IDR 1,000. Use the app for free."
+  },
+  {
+    "question": "How do I check my credit card reward program?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and view reward program details."
+  },
+  {
+    "question": "Why is my savings account not linked to online banking?",
+    "answer": "Register your account in the Halo Satoshi app or visit a branch to link it."
+  },
+  {
+    "question": "How do I enable auto-debit for my savings account bills?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Auto-Debit,’ and link your savings account."
+  },
+  {
+    "question": "What’s the daily limit for online banking with a Platinum Debit Card?",
+    "answer": "The daily online banking limit for a Platinum Debit Card is IDR 100 million."
+  },
+  {
+    "question": "How do I check my debit card restrictions?",
+    "answer": "Log in to the Halo Satoshi app or call 1500-888 to view any card restrictions."
+  },
+  {
+    "question": "Why is my Time Deposit account not accessible?",
+    "answer": "Ensure your account is active. Visit a branch with your ID to resolve access issues."
+  },
+  {
+    "question": "How do I report a debit card phishing attempt?",
+    "answer": "Call 1500-888 and forward the suspicious message to support@halosatoshi.com."
+  },
+  {
+    "question": "What’s the fee for a savings account early closure?",
+    "answer": "Closing a savings account within 6 months incurs a IDR 50,000 fee."
+  },
+  {
+    "question": "How do I check my credit card statement online?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and view your statement."
+  },
+  {
+    "question": "Why is my debit card not working for online banking?",
+    "answer": "Ensure your card is linked to online banking. Register it in the app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Kids Savings account for my child?",
+    "answer": "Visit a branch with your ID and your child’s birth certificate. Deposit IDR 25,000 to open."
+  },
+  {
+    "question": "What’s the interest rate for a 60-month Time Deposit?",
+    "answer": "A 60-month Time Deposit offers a 5% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop SMS notifications for my debit card?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and disable debit card SMS notifications."
+  },
+  {
+    "question": "Why is my savings account transaction limit low?",
+    "answer": "Transaction limits depend on your account type. Upgrade your account at a branch."
+  },
+  {
+    "question": "How do I check my credit card cash advance limit?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and view your cash advance limit."
+  },
+  {
+    "question": "What’s the fee for a Time Deposit statement request?",
+    "answer": "A Time Deposit statement request costs IDR 10,000 per month requested."
+  },
+  {
+    "question": "How do I transfer money to my Platinum Credit Card?",
+    "answer": "Use the Halo Satoshi app, select ‘Transfer,’ and enter your Platinum Credit Card number."
+  },
+  {
+    "question": "Why is my mobile banking app not updating?",
+    "answer": "Ensure you have the latest app version. Reinstall or contact 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I apply for a Gold Credit Card?",
+    "answer": "Visit a branch with your ID and salary slip (minimum income IDR 7 million/month). The limit is up to IDR 25 million."
+  },
+  {
+    "question": "What’s the daily limit for ATM withdrawals with a Gold Debit Card?",
+    "answer": "The daily ATM withdrawal limit for a Gold Debit Card is IDR 10 million."
+  },
+  {
+    "question": "How do I check my savings account balance via SMS?",
+    "answer": "Send an SMS to 3355 with format: BAL <account number>. Register for SMS banking at a branch."
+  },
+  {
+    "question": "Why is my credit card transaction not processing?",
+    "answer": "Ensure sufficient credit and check merchant compatibility. Call 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I open a Regular Savings account at a branch?",
+    "answer": "Visit a branch with your ID and deposit IDR 50,000 to open a Regular Savings account."
+  },
+  {
+    "question": "What’s the fee for a debit card replacement?",
+    "answer": "A replacement debit card costs IDR 25,000 and is issued within 7 days."
+  },
+  {
+    "question": "How do I enable notifications for my Time Deposit account?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and enable Time Deposit notifications."
+  },
+  {
+    "question": "Why is my ATM card blocked after multiple transactions?",
+    "answer": "Multiple transactions may trigger a security block. Call 1500-888 to unblock your card."
+  },
+  {
+    "question": "How do I check my Kids Savings restrictions?",
+    "answer": "Visit a branch or log in to the Halo Satoshi app to view any restrictions."
+  },
+  {
+    "question": "What’s the fee for a credit card transaction dispute?",
+    "answer": "Disputing a credit card transaction is free. Call 1500-888 to initiate."
+  },
+  {
+    "question": "How do I transfer money to my Gold Credit Card?",
+    "answer": "Use the Halo Satoshi app, select ‘Transfer,’ and enter your Gold Credit Card number."
+  },
+  {
+    "question": "Why is my savings account not accessible via ATM?",
+    "answer": "Ensure your account is linked to your debit card. Visit a branch to resolve."
+  },
+  {
+    "question": "How do I check my Time Deposit maturity balance?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view your maturity balance."
+  },
+  {
+    "question": "What’s the daily limit for online purchases with a Gold Credit Card?",
+    "answer": "The daily online purchase limit for a Gold Credit Card is IDR 25 million."
+  },
+  {
+    "question": "How do I report a lost Time Deposit certificate?",
+    "answer": "Visit a branch with your ID to report and replace your Time Deposit certificate."
+  },
+  {
+    "question": "Why is my debit card not linked to my savings account?",
+    "answer": "Visit a branch to link your debit card to your savings account."
+  },
+  {
+    "question": "How do I check my credit card transaction history?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and view your transaction history."
+  },
+  {
+    "question": "What’s the fee for a savings account balance transfer?",
+    "answer": "A balance transfer to another bank costs IDR 6,500 per transaction."
+  },
+  {
+    "question": "How do I enable online banking for my Regular Savings?",
+    "answer": "Register your Regular Savings account in the Halo Satoshi app or at a branch."
+  },
+  {
+    "question": "Why is my Time Deposit account not earning expected interest?",
+    "answer": "Interest rates may vary. Check your contract or contact a branch for details."
+  },
+  {
+    "question": "How do I change my credit card limit temporarily?",
+    "answer": "Log in to the Halo Satoshi app or call 1500-888 to request a temporary limit increase."
+  },
+  {
+    "question": "What’s the daily limit for POS transactions with a Silver Debit Card?",
+    "answer": "The daily POS transaction limit for a Silver Debit Card is IDR 25 million."
+  },
+  {
+    "question": "How do I check my debit card reward program?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Debit Card,’ and view reward program details."
+  },
+  {
+    "question": "Why is my savings account not linked to SMS banking?",
+    "answer": "Register your account for SMS banking at a branch with your ID."
+  },
+  {
+    "question": "How do I apply for a loan against my Time Deposit?",
+    "answer": "Visit a branch with your Time Deposit certificate and ID to apply for a loan."
+  },
+  {
+    "question": "What’s the fee for a credit card statement request?",
+    "answer": "A credit card statement request costs IDR 10,000 per month requested."
+  },
+  {
+    "question": "How do I transfer money to my Silver Credit Card?",
+    "answer": "Use the Halo Satoshi app, select ‘Transfer,’ and enter your Silver Credit Card number."
+  },
+  {
+    "question": "Why is my mobile banking app not showing transactions?",
+    "answer": "Ensure you have the latest app version. Contact 1500-888 if transactions are missing."
+  },
+  {
+    "question": "How do I apply for a Platinum Credit Card online?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Apply for Credit Card,’ and submit your income proof."
+  },
+  {
+    "question": "What’s the daily limit for ATM withdrawals with a Silver Debit Card?",
+    "answer": "The daily ATM withdrawal limit for a Silver Debit Card is IDR 7 million."
+  },
+  {
+    "question": "How do I check my savings account interest rate?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view your interest rate."
+  },
+  {
+    "question": "Why is my credit card not working for international purchases?",
+    "answer": "Ensure international transactions are enabled. Call 1500-888 to activate."
+  },
+  {
+    "question": "How do I open a Kids Savings account at a branch?",
+    "answer": "Visit a branch with your ID and your child’s birth certificate. Deposit IDR 25,000."
+  },
+  {
+    "question": "What’s the fee for a debit card transaction history request?",
+    "answer": "A debit card transaction history request costs IDR 10,000 per month requested."
+  },
+  {
+    "question": "How do I enable notifications for my debit card transactions?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and enable debit card notifications."
+  },
+  {
+    "question": "Why is my ATM withdrawal not recorded?",
+    "answer": "Withdrawals may take 1-2 hours to reflect. Check your balance or call 1500-888."
+  },
+  {
+    "question": "How do I change my Time Deposit term?",
+    "answer": "Visit a branch with your ID to modify your Time Deposit term."
+  },
+  {
+    "question": "What’s the daily limit for credit card POS transactions?",
+    "answer": "The daily POS transaction limit is IDR 10 million for a Silver Credit Card."
+  },
+  {
+    "question": "How do I report a savings account unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report the transaction and secure your account."
+  },
+  {
+    "question": "Why is my debit card not working for ATM withdrawals?",
+    "answer": "Ensure sufficient funds and check if the card is blocked. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Kids Savings account balance online?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Kids Savings,’ and view your balance."
+  },
+  {
+    "question": "What’s the fee for a credit card cash advance limit increase?",
+    "answer": "A cash advance limit increase request is free, but approval depends on your credit."
+  },
+  {
+    "question": "How do I transfer money to my Regular Savings account online?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Transfer,’ and enter your Regular Savings account number."
+  },
+  {
+    "question": "Why is my savings account not showing interest?",
+    "answer": "Interest is credited monthly. Check your statement or contact a branch."
+  },
+  {
+    "question": "How do I change my credit card contact details?",
+    "answer": "Visit a branch with your ID or update your details in the Halo Satoshi app."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Silver Debit Card?",
+    "answer": "The daily interbank transfer limit for a Silver Debit Card is IDR 10 million."
+  },
+  {
+    "question": "How do I check my Time Deposit restrictions?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view any restrictions."
+  },
+  {
+    "question": "Why is my credit card not linked to mobile banking?",
+    "answer": "Register your credit card in the Halo Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Regular Savings passbook?",
+    "answer": "Visit a branch with your ID. The passbook is issued free for Regular Savings."
+  },
+  {
+    "question": "What’s the interest rate for a 12-month Time Deposit?",
+    "answer": "A 12-month Time Deposit offers a 3.5% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop SMS banking for my savings account?",
+    "answer": "Visit a branch or call 1500-888 to deactivate SMS banking."
+  },
+  {
+    "question": "Why is my savings account transaction not processing?",
+    "answer": "Ensure sufficient funds and check for restrictions. Call 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I check my credit card available balance?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and view your available balance."
+  },
+  {
+    "question": "What’s the fee for a Kids Savings passbook replacement?",
+    "answer": "A replacement passbook for Kids Savings costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable international transactions for my debit card?",
+    "answer": "Call 1500-888 or enable international transactions in the Halo Satoshi app."
+  },
+  {
+    "question": "Why is my Time Deposit account not linked to online banking?",
+    "answer": "Register your Time Deposit account in the Halo Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I check my debit card transaction limits?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Debit Card,’ and view your transaction limits."
+  },
+  {
+    "question": "What’s the daily limit for online banking with a Gold Debit Card?",
+    "answer": "The daily online banking limit for a Gold Debit Card is IDR 50 million."
+  },
+  {
+    "question": "How do I report a credit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my savings account not accessible via mobile banking?",
+    "answer": "Ensure your account is linked to mobile banking. Register in the app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Time Deposit account at a branch?",
+    "answer": "Visit a branch with your ID and deposit a minimum of IDR 10 million."
+  },
+  {
+    "question": "What’s the fee for a debit card PIN reset?",
+    "answer": "A debit card PIN reset at a branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I enable notifications for my Regular Savings account?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and enable Regular Savings notifications."
+  },
+  {
+    "question": "Why is my ATM card not working for transfers?",
+    "answer": "Ensure sufficient funds and check if transfers are enabled. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Kids Savings interest rate?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view the interest rate."
+  },
+  {
+    "question": "What’s the fee for a credit card limit review?",
+    "answer": "A credit card limit review is free, but approval depends on your income."
+  },
+  {
+    "question": "How do I transfer money to my Time Deposit account online?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Transfer,’ and enter your Time Deposit account number."
+  },
+  {
+    "question": "Why is my mobile banking app not loading?",
+    "answer": "Check your internet connection and update the app. Contact 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I apply for a Silver Credit Card at a branch?",
+    "answer": "Visit a branch with your ID and salary slip (minimum income IDR 3 million/month)."
+  },
+  {
+    "question": "What’s the daily limit for POS transactions with a Gold Credit Card?",
+    "answer": "The daily POS transaction limit for a Gold Credit Card is IDR 25 million."
+  },
+  {
+    "question": "How do I check my savings account transaction history online?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Account,’ and view your transaction history."
+  },
+  {
+    "question": "Why is my credit card not working for ATM withdrawals?",
+    "answer": "Ensure cash advances are enabled. Call 1500-888 to activate."
+  },
+  {
+    "question": "How do I open a Regular Savings account online?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Open Account,’ upload your ID, and deposit IDR 50,000."
+  },
+  {
+    "question": "What’s the fee for a Time Deposit certificate replacement?",
+    "answer": "A replacement Time Deposit certificate costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable SMS notifications for my credit card?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and enable credit card SMS notifications."
+  },
+  {
+    "question": "Why is my debit card transaction not recorded?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I change my Kids Savings account details?",
+    "answer": "Visit a branch with your ID and your child’s birth certificate to update details."
+  },
+  {
+    "question": "What’s the daily limit for credit card online transactions?",
+    "answer": "The daily online transaction limit is IDR 10 million for a Silver Credit Card."
+  },
+  {
+    "question": "How do I report a savings account suspicious transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my ATM card not working for online purchases?",
+    "answer": "Ensure online purchases are enabled in the Halo Satoshi app. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Regular Savings restrictions?",
+    "answer": "Log in to the Halo Satoshi app or visit a branch to view any restrictions."
+  },
+  {
+    "question": "What’s the fee for a credit card PIN reset?",
+    "answer": "A credit card PIN reset at a branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I transfer money to my Platinum Debit Card account?",
+    "answer": "Use the Halo Satoshi app, select ‘Transfer,’ and enter your Platinum Debit Card account number."
+  },
+  {
+    "question": "Why is my savings account not linked to my credit card?",
+    "answer": "Visit a branch to link your savings account to your credit card."
+  },
+  {
+    "question": "How do I check my Time Deposit account balance online?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Time Deposit,’ and view your balance."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Platinum Credit Card?",
+    "answer": "The daily interbank transfer limit for a Platinum Credit Card is IDR 100 million."
+  },
+  {
+    "question": "How do I report a debit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my mobile banking not showing my credit card?",
+    "answer": "Ensure your credit card is linked. Register it in the Halo Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Regular Savings account for a minor?",
+    "answer": "Visit a branch with your ID and the minor’s birth certificate. Deposit IDR 25,000."
+  },
+  {
+    "question": "What’s the interest rate for a 48-month Time Deposit?",
+    "answer": "A 48-month Time Deposit offers a 4.8% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop SMS notifications for my Time Deposit?",
+    "answer": "Log in to the Halo Satoshi app, go to ‘Settings,’ and disable Time Deposit notifications."
+  },
+  {
+    "question": "Why is my savings account transaction not reflected?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I check my credit card payment history?",
+    "answer": "Log in to the Halo Satoshi app, select ‘Credit Card,’ and view your payment history."
+  },
+  {
+    "question": "What’s the fee for a Regular Savings passbook replacement?",
+    "answer": "A replacement passbook for Regular Savings costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable international transactions for my credit card?",
+    "answer": "Call 1500-888 or enable international transactions in the Halo Satoshi app."
+  },
+  {
+    "question": "Why is my Time Deposit account not linked to mobile banking?",
+    "answer": "Register.Concurrent requests detected from the same user. Waiting for the previous request to complete before processing this one."
+  },
+  {
+    "question": "What’s the monthly admin fee for a Kids Savings account at Bank Satoshi?",
+    "answer": "The monthly admin fee for a Kids Savings account at Bank Satoshi is IDR 5,000, but it’s waived if the balance stays above IDR 20,000."
+  },
+  {
+    "question": "How long does a transfer usually take with Bank Satoshi?",
+    "answer": "A domestic transfer with Bank Satoshi typically takes 1-2 hours to process. Interbank transfers may take up to 1 business day."
+  },
+  {
+    "question": "What’s the annual interest rate for a Regular Savings account?",
+    "answer": "The annual interest rate for a Regular Savings account at Bank Satoshi is 1.2%, credited monthly based on your daily balance."
+  },
+  {
+    "question": "How can I open a Time Deposit account online with Bank Satoshi?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Open New Account,’ select ‘Time Deposit,’ choose your term, and deposit at least IDR 5 million."
+  },
+  {
+    "question": "What’s the daily withdrawal limit for a Silver Debit Card?",
+    "answer": "The daily withdrawal limit for a Silver Debit Card at Bank Satoshi is IDR 5 million via ATM."
+  },
+  {
+    "question": "How do I report a lost Kids Savings passbook?",
+    "answer": "Visit a Bank Satoshi branch with your ID and your child’s birth certificate. A replacement passbook costs IDR 20,000."
+  },
+  {
+    "question": "What’s the fee for an interbank transfer with Bank Satoshi?",
+    "answer": "The fee for an interbank transfer with Bank Satoshi is IDR 6,500 per transaction via the app or ATM."
+  },
+  {
+    "question": "Can I change my PIN while I’m traveling in Singapore?",
+    "answer": "Yes, you can change your PIN via the Bank Satoshi app. Go to ‘Card Settings,’ select ‘Change PIN,’ and verify with an SMS code."
+  },
+  {
+    "question": "How do I check my transaction history for the past month?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Account,’ and view your transactions under ‘History.’ Filter by the last 30 days."
+  },
+  {
+    "question": "What’s the minimum deposit to open a Kids Savings account?",
+    "answer": "The minimum deposit to open a Kids Savings account at Bank Satoshi is IDR 25,000."
+  },
+  {
+    "question": "How do I apply for a Platinum Credit Card with Bank Satoshi?",
+    "answer": "Visit a Bank Satoshi branch with your ID and proof of income (minimum IDR 15 million/month). The limit can go up to IDR 100 million."
+  },
+  {
+    "question": "What’s the daily transfer limit for a Gold Debit Card?",
+    "answer": "The daily transfer limit for a Gold Debit Card at Bank Satoshi is IDR 50 million, including interbank transfers."
+  },
+  {
+    "question": "Why is my online payment with my debit card not going through?",
+    "answer": "Ensure online payments are enabled in the Bank Satoshi app. The daily limit for a Silver Debit Card is IDR 10 million. Check your balance too."
+  },
+  {
+    "question": "How do I set up SMS notifications for my account?",
+    "answer": "Visit a Bank Satoshi branch with your ID to register your phone number for SMS notifications, or enable them in the app under ‘Settings.’"
+  },
+  {
+    "question": "What’s the interest rate for a 24-month Time Deposit at Bank Satoshi?",
+    "answer": "A 24-month Time Deposit at Bank Satoshi offers a 4% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I close my Regular Savings account?",
+    "answer": "Visit a Bank Satoshi branch with your ID. A IDR 50,000 fee applies if closed within 6 months of opening."
+  },
+  {
+    "question": "Why was I charged a fee for an ATM withdrawal?",
+    "answer": "Withdrawals at non-partner ATMs cost IDR 7,500. Use Bank Satoshi or partner ATMs to avoid fees."
+  },
+  {
+    "question": "How do I enable auto-debit for my utility bills?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Payments,’ select ‘Auto-Debit,’ and link your savings account to the biller."
+  },
+  {
+    "question": "What’s the daily limit for contactless payments with a Platinum Debit Card?",
+    "answer": "The contactless payment limit for a Platinum Debit Card is IDR 1 million per transaction, with a daily cap of IDR 100 million."
+  },
+  {
+    "question": "How do I report an unauthorized transaction on my account?",
+    "answer": "Call Bank Satoshi at 1500-888 immediately. Provide your account details and transaction date for investigation."
+  },
+  {
+    "question": "What’s the fee for a replacement debit card?",
+    "answer": "A replacement debit card at Bank Satoshi costs IDR 25,000 and takes 7 days to issue."
+  },
+  {
+    "question": "How do I check my credit card balance?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Credit Card,’ and view your balance. You can also call 1500-888."
+  },
+  {
+    "question": "What’s the penalty for early withdrawal from a Time Deposit?",
+    "answer": "Early withdrawal from a Time Deposit at Bank Satoshi incurs a 1% penalty on the principal amount."
+  },
+  {
+    "question": "How do I activate my new debit card?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Card Settings,’ select ‘Activate Card,’ and verify with an SMS code."
+  },
+  {
+    "question": "What’s the annual fee for a Gold Credit Card at Bank Satoshi?",
+    "answer": "The annual fee for a Gold Credit Card is IDR 500,000, waived for the first year."
+  },
+  {
+    "question": "How do I dispute a transaction on my savings account?",
+    "answer": "Call 1500-888 or visit a Bank Satoshi branch with your transaction details. Disputes are resolved within 14 days."
+  },
+  {
+    "question": "What’s the daily limit for online transactions with a Silver Credit Card?",
+    "answer": "The daily online transaction limit for a Silver Credit Card at Bank Satoshi is IDR 10 million."
+  },
+  {
+    "question": "How do I enable international transactions on my debit card?",
+    "answer": "Enable international transactions in the Bank Satoshi app under ‘Card Settings,’ or call 1500-888 for assistance."
+  },
+  {
+    "question": "Why is my savings account balance not updating after a transfer?",
+    "answer": "Transfers may take 1-2 hours to reflect. If delayed beyond 24 hours, call 1500-888 with your transaction details."
+  },
+  {
+    "question": "How do I apply for a loan using my savings account?",
+    "answer": "Visit a Bank Satoshi branch with your ID, salary slip, and account details. Eligibility depends on your account history."
+  },
+  {
+    "question": "What’s the fee for a declined debit card transaction?",
+    "answer": "A declined debit card transaction due to insufficient funds costs IDR 5,000 at Bank Satoshi."
+  },
+  {
+    "question": "How do I check my Time Deposit maturity date?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Time Deposit,’ and view your maturity date. You’ll get an SMS reminder one month prior."
+  },
+  {
+    "question": "What’s the daily ATM withdrawal limit for a Platinum Debit Card?",
+    "answer": "The daily ATM withdrawal limit for a Platinum Debit Card at Bank Satoshi is IDR 15 million."
+  },
+  {
+    "question": "How do I report a phishing email about my Bank Satoshi account?",
+    "answer": "Forward the email to support@banksatoshi.com and call 1500-888. Do not click any links in the email."
+  },
+  {
+    "question": "Why is my credit card payment not reflected in my account?",
+    "answer": "Payments may take 1-2 business days to process. Check the Bank Satoshi app or call 1500-888 if delayed."
+  },
+  {
+    "question": "How do I change my credit card PIN?",
+    "answer": "Call 1500-888 or visit a Bank Satoshi branch to reset your credit card PIN. You’ll need your ID for verification."
+  },
+  {
+    "question": "What’s the fee for a reprinted Time Deposit statement?",
+    "answer": "A reprinted Time Deposit statement at Bank Satoshi costs IDR 10,000 per month requested."
+  },
+  {
+    "question": "How do I transfer money to my Kids Savings account?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Transfer,’ enter your Kids Savings account number, and confirm. No fee applies."
+  },
+  {
+    "question": "Why is my debit card not accepted internationally?",
+    "answer": "Ensure international transactions are enabled in the Bank Satoshi app under ‘Card Settings,’ or call 1500-888."
+  },
+  {
+    "question": "What’s the daily limit for mobile banking transfers with a Gold Debit Card?",
+    "answer": "The daily mobile banking transfer limit for a Gold Debit Card at Bank Satoshi is IDR 50 million."
+  },
+  {
+    "question": "How do I check my savings account statement online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Account,’ and view your statement. A printed copy costs IDR 10,000 at a branch."
+  },
+  {
+    "question": "Why is my credit card blocked?",
+    "answer": "Your card may be blocked due to suspicious activity. Call 1500-888 to verify and unblock it."
+  },
+  {
+    "question": "How do I renew my Time Deposit account?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Time Deposit,’ and select ‘Renew’ before maturity, or visit a branch."
+  },
+  {
+    "question": "What’s the fee for a non-partner ATM withdrawal?",
+    "answer": "A non-partner ATM withdrawal with Bank Satoshi costs IDR 7,500 per transaction."
+  },
+  {
+    "question": "How do I link my credit card to the Bank Satoshi app?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Add Card,’ and enter your credit card details for verification."
+  },
+  {
+    "question": "Why is my savings account restricted?",
+    "answer": "Restrictions may occur due to incomplete KYC. Visit a Bank Satoshi branch with your ID to resolve it."
+  },
+  {
+    "question": "Can I get a debit card for my Kids Savings account?",
+    "answer": "Kids Savings accounts at Bank Satoshi are not eligible for debit cards until the account holder is 17."
+  },
+  {
+    "question": "What’s the interest rate for a 6-month Time Deposit?",
+    "answer": "A 6-month Time Deposit at Bank Satoshi offers a 2.5% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop credit card notifications?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and disable credit card notifications."
+  },
+  {
+    "question": "Why is my interbank transfer fee higher than usual?",
+    "answer": "Interbank transfers cost IDR 6,500, but urgent transfers may incur an additional IDR 5,000 fee. Check your transaction details."
+  },
+  {
+    "question": "How do I check my credit card reward points?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Credit Card,’ and view your reward points balance."
+  },
+  {
+    "question": "What’s the fee for a savings account statement reprint?",
+    "answer": "A reprinted savings account statement at Bank Satoshi costs IDR 10,000 per month requested."
+  },
+  {
+    "question": "How do I enable auto-debit for my savings account?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Auto-Debit,’ and link your savings account to a biller."
+  },
+  {
+    "question": "Why is my debit card transaction pending?",
+    "answer": "Pending transactions may take 1-2 business days to process. Check the app or call 1500-888 if delayed."
+  },
+  {
+    "question": "How do I open a joint savings account with Bank Satoshi?",
+    "answer": "Visit a Bank Satoshi branch with both account holders’ IDs and a minimum deposit of IDR 100,000."
+  },
+  {
+    "question": "What’s the daily limit for contactless payments with a Gold Debit Card?",
+    "answer": "The contactless payment limit for a Gold Debit Card is IDR 1 million per transaction, up to IDR 50 million daily."
+  },
+  {
+    "question": "How do I report a lost credit card?",
+    "answer": "Call 1500-888 to block your card immediately. Visit a Bank Satoshi branch with your ID to request a replacement."
+  },
+  {
+    "question": "Why is my Time Deposit account not earning interest?",
+    "answer": "Interest is credited at maturity. Check your contract or contact a Bank Satoshi branch for details."
+  },
+  {
+    "question": "How do I change my debit card limit temporarily?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Card Settings,’ and adjust your temporary limit for eligible accounts."
+  },
+  {
+    "question": "What’s the fee for a declined credit card transaction?",
+    "answer": "A declined credit card transaction at Bank Satoshi incurs no fee, but check your balance to avoid declines."
+  },
+  {
+    "question": "How do I check my mobile banking transaction history?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Account,’ and view your transaction history."
+  },
+  {
+    "question": "Why is my savings account not accessible online?",
+    "answer": "Ensure your account is linked to online banking. Register via the app or visit a Bank Satoshi branch."
+  },
+  {
+    "question": "How do I apply for a Platinum Debit Card?",
+    "answer": "Visit a Bank Satoshi branch with your ID. The issuance fee is IDR 50,000, and the card is issued in 7 days."
+  },
+  {
+    "question": "What’s the penalty for early closure of a Regular Savings account?",
+    "answer": "Closing a Regular Savings account within 6 months incurs a IDR 50,000 fee at Bank Satoshi."
+  },
+  {
+    "question": "How do I enable SMS notifications for my debit card?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable SMS notifications for your debit card."
+  },
+  {
+    "question": "Why is my ATM card not working?",
+    "answer": "Your card may be damaged or blocked. Visit a Bank Satoshi branch or call 1500-888 to diagnose the issue."
+  },
+  {
+    "question": "How do I check my Kids Savings balance?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view your Kids Savings balance."
+  },
+  {
+    "question": "What’s the fee for a credit card cash withdrawal?",
+    "answer": "A credit card cash withdrawal at Bank Satoshi incurs a 4% fee of the amount, with a minimum of IDR 50,000."
+  },
+  {
+    "question": "How do I transfer money to my Time Deposit account?",
+    "answer": "Visit a Bank Satoshi branch or use the app to transfer funds to your Time Deposit account."
+  },
+  {
+    "question": "Why is my credit card statement delayed?",
+    "answer": "Statements are issued monthly. Check the Bank Satoshi app or call 1500-888 if not received."
+  },
+  {
+    "question": "How do I activate my debit card for online transactions?",
+    "answer": "Enable online transactions in the Bank Satoshi app under ‘Card Settings.’ No fee applies."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Platinum Debit Card?",
+    "answer": "The daily interbank transfer limit for a Platinum Debit Card at Bank Satoshi is IDR 100 million."
+  },
+  {
+    "question": "How do I dispute a savings account transaction?",
+    "answer": "Call 1500-888 or visit a Bank Satoshi branch with your transaction details. Disputes are resolved within 14 days."
+  },
+  {
+    "question": "Why is my mobile banking password not working?",
+    "answer": "Ensure the password is correct. Reset it via the app or call 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I check my credit card payment due date?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Credit Card,’ and view your due date."
+  },
+  {
+    "question": "What’s the fee for a Kids Savings statement reprint?",
+    "answer": "A reprinted Kids Savings statement at Bank Satoshi costs IDR 5,000 per month requested."
+  },
+  {
+    "question": "How do I enable international debit card transactions?",
+    "answer": "Call 1500-888 or enable international transactions in the Bank Satoshi app."
+  },
+  {
+    "question": "Why is my savings account not earning interest?",
+    "answer": "Interest is credited monthly for Regular Savings. Check your balance or contact a Bank Satoshi branch."
+  },
+  {
+    "question": "How do I change my credit card billing address?",
+    "answer": "Visit a Bank Satoshi branch with your ID or update your address in the app."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Silver Debit Card?",
+    "answer": "The daily interbank transfer limit for a Silver Debit Card at Bank Satoshi is IDR 10 million."
+  },
+  {
+    "question": "How do I check my Time Deposit restrictions?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view any restrictions."
+  },
+  {
+    "question": "Why is my credit card not linked to mobile banking?",
+    "answer": "Register your credit card in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Regular Savings passbook?",
+    "answer": "Visit a Bank Satoshi branch with your ID. The passbook is issued free for Regular Savings."
+  },
+  {
+    "question": "What’s the interest rate for a 12-month Time Deposit at Bank Satoshi?",
+    "answer": "A 12-month Time Deposit at Bank Satoshi offers a 3.5% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop SMS banking for my savings account?",
+    "answer": "Visit a Bank Satoshi branch or call 1500-888 to deactivate SMS banking."
+  },
+  {
+    "question": "Why is my savings account transaction not processing?",
+    "answer": "Ensure sufficient funds and check for restrictions. Call 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I check my credit card available balance?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Credit Card,’ and view your available balance."
+  },
+  {
+    "question": "What’s the fee for a Kids Savings passbook replacement?",
+    "answer": "A replacement passbook for Kids Savings at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable international transactions for my credit card?",
+    "answer": "Call 1500-888 or enable international transactions in the Bank Satoshi app."
+  },
+  {
+    "question": "Why is my Time Deposit account not linked to mobile banking?",
+    "answer": "Register your Time Deposit account in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I check my debit card transaction limits?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Debit Card,’ and view your transaction limits."
+  },
+  {
+    "question": "What’s the daily limit for online banking with a Gold Debit Card?",
+    "answer": "The daily online banking limit for a Gold Debit Card at Bank Satoshi is IDR 50 million."
+  },
+  {
+    "question": "How do I report a credit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my savings account not accessible via mobile banking?",
+    "answer": "Ensure your account is linked to mobile banking. Register in the app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Time Deposit account at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and deposit a minimum of IDR 5 million."
+  },
+  {
+    "question": "What’s the fee for a debit card PIN reset?",
+    "answer": "A debit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I enable notifications for my Regular Savings account?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable Regular Savings notifications."
+  },
+  {
+    "question": "Why is my ATM card not working for transfers?",
+    "answer": "Ensure sufficient funds and check if transfers are enabled. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Kids Savings interest rate?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view the interest rate."
+  },
+  {
+    "question": "What’s the fee for a credit card limit review?",
+    "answer": "A credit card limit review at Bank Satoshi is free, but approval depends on your income."
+  },
+  {
+    "question": "How do I transfer money to my Time Deposit account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Transfer,’ and enter your Time Deposit account number."
+  },
+  {
+    "question": "Why is my mobile banking app not loading?",
+    "answer": "Check your internet connection and update the app. Contact 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I apply for a Silver Credit Card at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and salary slip (minimum income IDR 3 million/month)."
+  },
+  {
+    "question": "What’s the daily limit for POS transactions with a Gold Credit Card?",
+    "answer": "The daily POS transaction limit for a Gold Credit Card at Bank Satoshi is IDR 25 million."
+  },
+  {
+    "question": "How do I check my savings account transaction history online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Account,’ and view your transaction history."
+  },
+  {
+    "question": "Why is my credit card not working for ATM withdrawals?",
+    "answer": "Ensure cash advances are enabled. Call 1500-888 to activate."
+  },
+  {
+    "question": "How do I open a Regular Savings account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Open Account,’ upload your ID, and deposit IDR 50,000."
+  },
+  {
+    "question": "What’s the fee for a Time Deposit certificate replacement?",
+    "answer": "A replacement Time Deposit certificate at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable SMS notifications for my credit card?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable credit card SMS notifications."
+  },
+  {
+    "question": "Why is my debit card transaction not recorded?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I change my Kids Savings account details?",
+    "answer": "Visit a Bank Satoshi branch with your ID and your child’s birth certificate to update details."
+  },
+  {
+    "question": "What’s the daily limit for credit card online transactions?",
+    "answer": "The daily online transaction limit is IDR 10 million for a Silver Credit Card at Bank Satoshi."
+  },
+  {
+    "question": "How do I report a savings account suspicious transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my ATM card not working for online purchases?",
+    "answer": "Ensure online purchases are enabled in the Bank Satoshi app. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Regular Savings restrictions?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view any restrictions."
+  },
+  {
+    "question": "What’s the fee for a credit card PIN reset?",
+    "answer": "A credit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I transfer money to my Platinum Debit Card account?",
+    "answer": "Use the Bank Satoshi app, select ‘Transfer,’ and enter your Platinum Debit Card account number."
+  },
+  {
+    "question": "Why is my savings account not linked to my credit card?",
+    "answer": "Visit a Bank Satoshi branch to link your savings account to your credit card."
+  },
+  {
+    "question": "How do I check my Time Deposit account balance online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Time Deposit,’ and view your balance."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Platinum Credit Card?",
+    "answer": "The daily interbank transfer limit for a Platinum Credit Card at Bank Satoshi is IDR 100 million."
+  },
+  {
+    "question": "How do I report a debit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my mobile banking not showing my credit card?",
+    "answer": "Ensure your credit card is linked. Register it in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Regular Savings account for a minor?",
+    "answer": "Visit a Bank Satoshi branch with your ID and the minor’s birth certificate. Deposit IDR 25,000."
+  },
+  {
+    "question": "What’s the interest rate for a 48-month Time Deposit?",
+    "answer": "A 48-month Time Deposit at Bank Satoshi offers a 4.8% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop SMS notifications for my Time Deposit?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and disable Time Deposit notifications."
+  },
+  {
+    "question": "Why is my savings account transaction not reflected?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I check my credit card payment history?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Credit Card,’ and view your payment history."
+  },
+  {
+    "question": "What’s the fee for a Regular Savings passbook replacement?",
+    "answer": "A replacement passbook for Regular Savings at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable international transactions for my credit card?",
+    "answer": "Call 1500-888 or enable international transactions in the Bank Satoshi app."
+  },
+  {
+    "question": "Why is my Time Deposit account not linked to online banking?",
+    "answer": "Register your Time Deposit account in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I check my debit card transaction limits?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Debit Card,’ and view your transaction limits."
+  },
+  {
+    "question": "What’s the daily limit for online banking with a Gold Debit Card?",
+    "answer": "The daily online banking limit for a Gold Debit Card at Bank Satoshi is IDR 50 million."
+  },
+  {
+    "question": "How do I report a credit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my savings account not accessible via mobile banking?",
+    "answer": "Ensure your account is linked to mobile banking. Register in the app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Time Deposit account at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and deposit a minimum of IDR 5 million."
+  },
+  {
+    "question": "What’s the fee for a debit card PIN reset?",
+    "answer": "A debit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I enable notifications for my Regular Savings account?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable Regular Savings notifications."
+  },
+  {
+    "question": "Why is my ATM card not working for transfers?",
+    "answer": "Ensure sufficient funds and check if transfers are enabled. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Kids Savings interest rate?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view the interest rate."
+  },
+  {
+    "question": "What’s the fee for a credit card limit review?",
+    "answer": "A credit card limit review at Bank Satoshi is free, but approval depends on your income."
+  },
+  {
+    "question": "How do I transfer money to my Time Deposit account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Transfer,’ and enter your Time Deposit account number."
+  },
+  {
+    "question": "Why is my mobile banking app not loading?",
+    "answer": "Check your internet connection and update the app. Contact 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I apply for a Silver Credit Card at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and salary slip (minimum income IDR 3 million/month)."
+  },
+  {
+    "question": "What’s the daily limit for POS transactions with a Gold Credit Card?",
+    "answer": "The daily POS transaction limit for a Gold Credit Card at Bank Satoshi is IDR 25 million."
+  },
+  {
+    "question": "How do I check my savings account transaction history online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Account,’ and view your transaction history."
+  },
+  {
+    "question": "Why is my credit card not working for ATM withdrawals?",
+    "answer": "Ensure cash advances are enabled. Call 1500-888 to activate."
+  },
+  {
+    "question": "How do I open a Regular Savings account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Open Account,’ upload your ID, and deposit IDR 50,000."
+  },
+  {
+    "question": "What’s the fee for a Time Deposit certificate replacement?",
+    "answer": "A replacement Time Deposit certificate at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable SMS notifications for my credit card?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable credit card SMS notifications."
+  },
+  {
+    "question": "Why is my debit card transaction not recorded?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I change my Kids Savings account details?",
+    "answer": "Visit a Bank Satoshi branch with your ID and your child’s birth certificate to update details."
+  },
+  {
+    "question": "What’s the daily limit for credit card online transactions?",
+    "answer": "The daily online transaction limit is IDR 10 million for a Silver Credit Card at Bank Satoshi."
+  },
+  {
+    "question": "How do I report a savings account suspicious transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my ATM card not working for online purchases?",
+    "answer": "Ensure online purchases are enabled in the Bank Satoshi app. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Regular Savings restrictions?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view any restrictions."
+  },
+  {
+    "question": "What’s the fee for a credit card PIN reset?",
+    "answer": "A credit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I transfer money to my Platinum Debit Card account?",
+    "answer": "Use the Bank Satoshi app, select ‘Transfer,’ and enter your Platinum Debit Card account number."
+  },
+  {
+    "question": "Why is my savings account not linked to my credit card?",
+    "answer": "Visit a Bank Satoshi branch to link your savings account to your credit card."
+  },
+  {
+    "question": "How do I check my Time Deposit account balance online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Time Deposit,’ and view your balance."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Platinum Credit Card?",
+    "answer": "The daily interbank transfer limit for a Platinum Credit Card at Bank Satoshi is IDR 100 million."
+  },
+  {
+    "question": "How do I report a debit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my mobile banking not showing my credit card?",
+    "answer": "Ensure your credit card is linked. Register it in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Regular Savings account for a minor?",
+    "answer": "Visit a Bank Satoshi branch with your ID and the minor’s birth certificate. Deposit IDR 25,000."
+  },
+  {
+    "question": "What’s the interest rate for a 48-month Time Deposit?",
+    "answer": "A 48-month Time Deposit at Bank Satoshi offers a 4.8% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop SMS notifications for my Time Deposit?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and disable Time Deposit notifications."
+  },
+  {
+    "question": "Why is my savings account transaction not reflected?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I check my credit card payment history?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Credit Card,’ and view your payment history."
+  },
+  {
+    "question": "What’s the fee for a Regular Savings passbook replacement?",
+    "answer": "A replacement passbook for Regular Savings at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable international transactions for my credit card?",
+    "answer": "Call 1500-888 or enable international transactions in the Bank Satoshi app."
+  },
+  {
+    "question": "Why is my Time Deposit account not linked to online banking?",
+    "answer": "Register your Time Deposit account in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I check my debit card transaction limits?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Debit Card,’ and view your transaction limits."
+  },
+  {
+    "question": "What’s the daily limit for online banking with a Gold Debit Card?",
+    "answer": "The daily online banking limit for a Gold Debit Card at Bank Satoshi is IDR 50 million."
+  },
+  {
+    "question": "How do I report a credit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my savings account not accessible via mobile banking?",
+    "answer": "Ensure your account is linked to mobile banking. Register in the app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Time Deposit account at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and deposit a minimum of IDR 5 million."
+  },
+  {
+    "question": "What’s the fee for a debit card PIN reset?",
+    "answer": "A debit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I enable notifications for my Regular Savings account?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable Regular Savings notifications."
+  },
+  {
+    "question": "Why is my ATM card not working for transfers?",
+    "answer": "Ensure sufficient funds and check if transfers are enabled. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Kids Savings interest rate?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view the interest rate."
+  },
+  {
+    "question": "What’s the fee for a credit card limit review?",
+    "answer": "A credit card limit review at Bank Satoshi is free, but approval depends on your income."
+  },
+  {
+    "question": "How do I transfer money to my Time Deposit account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Transfer,’ and enter your Time Deposit account number."
+  },
+  {
+    "question": "Why is my mobile banking app not loading?",
+    "answer": "Check your internet connection and update the app. Contact 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I apply for a Silver Credit Card at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and salary slip (minimum income IDR 3 million/month)."
+  },
+  {
+    "question": "What’s the daily limit for POS transactions with a Gold Credit Card?",
+    "answer": "The daily POS transaction limit for a Gold Credit Card at Bank Satoshi is IDR 25 million."
+  },
+  {
+    "question": "How do I check my savings account transaction history online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Account,’ and view your transaction history."
+  },
+  {
+    "question": "Why is my credit card not working for ATM withdrawals?",
+    "answer": "Ensure cash advances are enabled. Call 1500-888 to activate."
+  },
+  {
+    "question": "How do I open a Regular Savings account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Open Account,’ upload your ID, and deposit IDR 50,000."
+  },
+  {
+    "question": "What’s the fee for a Time Deposit certificate replacement?",
+    "answer": "A replacement Time Deposit certificate at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable SMS notifications for my credit card?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable credit card SMS notifications."
+  },
+  {
+    "question": "Why is my debit card transaction not recorded?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I change my Kids Savings account details?",
+    "answer": "Visit a Bank Satoshi branch with your ID and your child’s birth certificate to update details."
+  },
+  {
+    "question": "What’s the daily limit for credit card online transactions?",
+    "answer": "The daily online transaction limit is IDR 10 million for a Silver Credit Card at Bank Satoshi."
+  },
+  {
+    "question": "How do I report a savings account suspicious transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my ATM card not working for online purchases?",
+    "answer": "Ensure online purchases are enabled in the Bank Satoshi app. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Regular Savings restrictions?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view any restrictions."
+  },
+  {
+    "question": "What’s the fee for a credit card PIN reset?",
+    "answer": "A credit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I transfer money to my Platinum Debit Card account?",
+    "answer": "Use the Bank Satoshi app, select ‘Transfer,’ and enter your Platinum Debit Card account number."
+  },
+  {
+    "question": "Why is my savings account not linked to my credit card?",
+    "answer": "Visit a Bank Satoshi branch to link your savings account to your credit card."
+  },
+  {
+    "question": "How do I check my Time Deposit account balance online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Time Deposit,’ and view your balance."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Platinum Credit Card?",
+    "answer": "The daily interbank transfer limit for a Platinum Credit Card at Bank Satoshi is IDR 100 million."
+  },
+  {
+    "question": "How do I report a debit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my mobile banking not showing my credit card?",
+    "answer": "Ensure your credit card is linked. Register it in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Regular Savings account for a minor?",
+    "answer": "Visit a Bank Satoshi branch with your ID and the minor’s birth certificate. Deposit IDR 25,000."
+  },
+  {
+    "question": "What’s the interest rate for a 48-month Time Deposit?",
+    "answer": "A 48-month Time Deposit at Bank Satoshi offers a 4.8% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop SMS notifications for my Time Deposit?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and disable Time Deposit notifications."
+  },
+  {
+    "question": "Why is my savings account transaction not reflected?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I check my credit card payment history?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Credit Card,’ and view your payment history."
+  },
+  {
+    "question": "What’s the fee for a Regular Savings passbook replacement?",
+    "answer": "A replacement passbook for Regular Savings at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable international transactions for my credit card?",
+    "answer": "Call 1500-888 or enable international transactions in the Bank Satoshi app."
+  },
+  {
+    "question": "Why is my Time Deposit account not linked to online banking?",
+    "answer": "Register your Time Deposit account in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I check my debit card transaction limits?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Debit Card,’ and view your transaction limits."
+  },
+  {
+    "question": "What’s the daily limit for online banking with a Gold Debit Card?",
+    "answer": "The daily online banking limit for a Gold Debit Card at Bank Satoshi is IDR 50 million."
+  },
+  {
+    "question": "How do I report a credit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my savings account not accessible via mobile banking?",
+    "answer": "Ensure your account is linked to mobile banking. Register in the app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Time Deposit account at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and deposit a minimum of IDR 5 million."
+  },
+  {
+    "question": "What’s the fee for a debit card PIN reset?",
+    "answer": "A debit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I enable notifications for my Regular Savings account?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable Regular Savings notifications."
+  },
+  {
+    "question": "Why is my ATM card not working for transfers?",
+    "answer": "Ensure sufficient funds and check if transfers are enabled. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Kids Savings interest rate?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view the interest rate."
+  },
+  {
+    "question": "What’s the fee for a credit card limit review?",
+    "answer": "A credit card limit review at Bank Satoshi is free, but approval depends on your income."
+  },
+  {
+    "question": "How do I transfer money to my Time Deposit account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Transfer,’ and enter your Time Deposit account number."
+  },
+  {
+    "question": "Why is my mobile banking app not loading?",
+    "answer": "Check your internet connection and update the app. Contact 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I apply for a Silver Credit Card at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and salary slip (minimum income IDR 3 million/month)."
+  },
+  {
+    "question": "What’s the daily limit for POS transactions with a Gold Credit Card?",
+    "answer": "The daily POS transaction limit for a Gold Credit Card at Bank Satoshi is IDR 25 million."
+  },
+  {
+    "question": "How do I check my savings account transaction history online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Account,’ and view your transaction history."
+  },
+  {
+    "question": "Why is my credit card not working for ATM withdrawals?",
+    "answer": "Ensure cash advances are enabled. Call 1500-888 to activate."
+  },
+  {
+    "question": "How do I open a Regular Savings account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Open Account,’ upload your ID, and deposit IDR 50,000."
+  },
+  {
+    "question": "What’s the fee for a Time Deposit certificate replacement?",
+    "answer": "A replacement Time Deposit certificate at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable SMS notifications for my credit card?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable credit card SMS notifications."
+  },
+  {
+    "question": "Why is my debit card transaction not recorded?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I change my Kids Savings account details?",
+    "answer": "Visit a Bank Satoshi branch with your ID and your child’s birth certificate to update details."
+  },
+  {
+    "question": "What’s the daily limit for credit card online transactions?",
+    "answer": "The daily online transaction limit is IDR 10 million for a Silver Credit Card at Bank Satoshi."
+  },
+  {
+    "question": "How do I report a savings account suspicious transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my ATM card not working for online purchases?",
+    "answer": "Ensure online purchases are enabled in the Bank Satoshi app. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Regular Savings restrictions?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view any restrictions."
+  },
+  {
+    "question": "What’s the fee for a credit card PIN reset?",
+    "answer": "A credit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I transfer money to my Platinum Debit Card account?",
+    "answer": "Use the Bank Satoshi app, select ‘Transfer,’ and enter your Platinum Debit Card account number."
+  },
+  {
+    "question": "Why is my savings account not linked to my credit card?",
+    "answer": "Visit a Bank Satoshi branch to link your savings account to your credit card."
+  },
+  {
+    "question": "How do I check my Time Deposit account balance online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Time Deposit,’ and view your balance."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Platinum Credit Card?",
+    "answer": "The daily interbank transfer limit for a Platinum Credit Card at Bank Satoshi is IDR 100 million."
+  },
+  {
+    "question": "How do I report a debit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my mobile banking not showing my credit card?",
+    "answer": "Ensure your credit card is linked. Register it in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Regular Savings account for a minor?",
+    "answer": "Visit a Bank Satoshi branch with your ID and the minor’s birth certificate. Deposit IDR 25,000."
+  },
+  {
+    "question": "What’s the interest rate for a 48-month Time Deposit?",
+    "answer": "A 48-month Time Deposit at Bank Satoshi offers a 4.8% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop SMS notifications for my Time Deposit?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and disable Time Deposit notifications."
+  },
+  {
+    "question": "Why is my savings account transaction not reflected?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I check my credit card payment history?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Credit Card,’ and view your payment history."
+  },
+  {
+    "question": "What’s the fee for a Regular Savings passbook replacement?",
+    "answer": "A replacement passbook for Regular Savings at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable international transactions for my credit card?",
+    "answer": "Call 1500-888 or enable international transactions in the Bank Satoshi app."
+  },
+  {
+    "question": "Why is my Time Deposit account not linked to online banking?",
+    "answer": "Register your Time Deposit account in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I check my debit card transaction limits?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Debit Card,’ and view your transaction limits."
+  },
+  {
+    "question": "What’s the daily limit for online banking with a Gold Debit Card?",
+    "answer": "The daily online banking limit for a Gold Debit Card at Bank Satoshi is IDR 50 million."
+  },
+  {
+    "question": "How do I report a credit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my savings account not accessible via mobile banking?",
+    "answer": "Ensure your account is linked to mobile banking. Register in the app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Time Deposit account at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and deposit a minimum of IDR 5 million."
+  },
+  {
+    "question": "What’s the fee for a debit card PIN reset?",
+    "answer": "A debit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I enable notifications for my Regular Savings account?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable Regular Savings notifications."
+  },
+  {
+    "question": "Why is my ATM card not working for transfers?",
+    "answer": "Ensure sufficient funds and check if transfers are enabled. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Kids Savings interest rate?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view the interest rate."
+  },
+  {
+    "question": "What’s the fee for a credit card limit review?",
+    "answer": "A credit card limit review at Bank Satoshi is free, but approval depends on your income."
+  },
+  {
+    "question": "How do I transfer money to my Time Deposit account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Transfer,’ and enter your Time Deposit account number."
+  },
+  {
+    "question": "Why is my mobile banking app not loading?",
+    "answer": "Check your internet connection and update the app. Contact 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I apply for a Silver Credit Card at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and salary slip (minimum income IDR 3 million/month)."
+  },
+  {
+    "question": "What’s the daily limit for POS transactions with a Gold Credit Card?",
+    "answer": "The daily POS transaction limit for a Gold Credit Card at Bank Satoshi is IDR 25 million."
+  },
+  {
+    "question": "How do I check my savings account transaction history online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Account,’ and view your transaction history."
+  },
+  {
+    "question": "Why is my credit card not working for ATM withdrawals?",
+    "answer": "Ensure cash advances are enabled. Call 1500-888 to activate."
+  },
+  {
+    "question": "How do I open a Regular Savings account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Open Account,’ upload your ID, and deposit IDR 50,000."
+  },
+  {
+    "question": "What’s the fee for a Time Deposit certificate replacement?",
+    "answer": "A replacement Time Deposit certificate at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable SMS notifications for my credit card?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable credit card SMS notifications."
+  },
+  {
+    "question": "Why is my debit card transaction not recorded?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I change my Kids Savings account details?",
+    "answer": "Visit a Bank Satoshi branch with your ID and your child’s birth certificate to update details."
+  },
+  {
+    "question": "What’s the daily limit for credit card online transactions?",
+    "answer": "The daily online transaction limit is IDR 10 million for a Silver Credit Card at Bank Satoshi."
+  },
+  {
+    "question": "How do I report a savings account suspicious transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my ATM card not working for online purchases?",
+    "answer": "Ensure online purchases are enabled in the Bank Satoshi app. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Regular Savings restrictions?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view any restrictions."
+  },
+  {
+    "question": "What’s the fee for a credit card PIN reset?",
+    "answer": "A credit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I transfer money to my Platinum Debit Card account?",
+    "answer": "Use the Bank Satoshi app, select ‘Transfer,’ and enter your Platinum Debit Card account number."
+  },
+  {
+    "question": "Why is my savings account not linked to my credit card?",
+    "answer": "Visit a Bank Satoshi branch to link your savings account to your credit card."
+  },
+  {
+    "question": "How do I check my Time Deposit account balance online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Time Deposit,’ and view your balance."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Platinum Credit Card?",
+    "answer": "The daily interbank transfer limit for a Platinum Credit Card at Bank Satoshi is IDR 100 million."
+  },
+  {
+    "question": "How do I report a debit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my mobile banking not showing my credit card?",
+    "answer": "Ensure your credit card is linked. Register it in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Regular Savings account for a minor?",
+    "answer": "Visit a Bank Satoshi branch with your ID and the minor’s birth certificate. Deposit IDR 25,000."
+  },
+  {
+    "question": "What’s the interest rate for a 48-month Time Deposit?",
+    "answer": "A 48-month Time Deposit at Bank Satoshi offers a 4.8% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop SMS notifications for my Time Deposit?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and disable Time Deposit notifications."
+  },
+  {
+    "question": "Why is my savings account transaction not reflected?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I check my credit card payment history?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Credit Card,’ and view your payment history."
+  },
+  {
+    "question": "What’s the fee for a Regular Savings passbook replacement?",
+    "answer": "A replacement passbook for Regular Savings at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable international transactions for my credit card?",
+    "answer": "Call 1500-888 or enable international transactions in the Bank Satoshi app."
+  },
+  {
+    "question": "Why is my Time Deposit account not linked to online banking?",
+    "answer": "Register your Time Deposit account in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I check my debit card transaction limits?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Debit Card,’ and view your transaction limits."
+  },
+  {
+    "question": "What’s the daily limit for online banking with a Gold Debit Card?",
+    "answer": "The daily online banking limit for a Gold Debit Card at Bank Satoshi is IDR 50 million."
+  },
+  {
+    "question": "How do I report a credit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my savings account not accessible via mobile banking?",
+    "answer": "Ensure your account is linked to mobile banking. Register in the app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Time Deposit account at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and deposit a minimum of IDR 5 million."
+  },
+  {
+    "question": "What’s the fee for a debit card PIN reset?",
+    "answer": "A debit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I enable notifications for my Regular Savings account?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable Regular Savings notifications."
+  },
+  {
+    "question": "Why is my ATM card not working for transfers?",
+    "answer": "Ensure sufficient funds and check if transfers are enabled. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Kids Savings interest rate?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view the interest rate."
+  },
+  {
+    "question": "What’s the fee for a credit card limit review?",
+    "answer": "A credit card limit review at Bank Satoshi is free, but approval depends on your income."
+  },
+  {
+    "question": "How do I transfer money to my Time Deposit account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Transfer,’ and enter your Time Deposit account number."
+  },
+  {
+    "question": "Why is my mobile banking app not loading?",
+    "answer": "Check your internet connection and update the app. Contact 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I apply for a Silver Credit Card at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and salary slip (minimum income IDR 3 million/month)."
+  },
+  {
+    "question": "What’s the daily limit for POS transactions with a Gold Credit Card?",
+    "answer": "The daily POS transaction limit for a Gold Credit Card at Bank Satoshi is IDR 25 million."
+  },
+  {
+    "question": "How do I check my savings account transaction history online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Account,’ and view your transaction history."
+  },
+  {
+    "question": "Why is my credit card not working for ATM withdrawals?",
+    "answer": "Ensure cash advances are enabled. Call 1500-888 to activate."
+  },
+  {
+    "question": "How do I open a Regular Savings account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Open Account,’ upload your ID, and deposit IDR 50,000."
+  },
+  {
+    "question": "What’s the fee for a Time Deposit certificate replacement?",
+    "answer": "A replacement Time Deposit certificate at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable SMS notifications for my credit card?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable credit card SMS notifications."
+  },
+  {
+    "question": "Why is my debit card transaction not recorded?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I change my Kids Savings account details?",
+    "answer": "Visit a Bank Satoshi branch with your ID and your child’s birth certificate to update details."
+  },
+  {
+    "question": "What’s the daily limit for credit card online transactions?",
+    "answer": "The daily online transaction limit is IDR 10 million for a Silver Credit Card at Bank Satoshi."
+  },
+  {
+    "question": "How do I report a savings account suspicious transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my ATM card not working for online purchases?",
+    "answer": "Ensure online purchases are enabled in the Bank Satoshi app. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Regular Savings restrictions?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view any restrictions."
+  },
+  {
+    "question": "What’s the fee for a credit card PIN reset?",
+    "answer": "A credit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I transfer money to my Platinum Debit Card account?",
+    "answer": "Use the Bank Satoshi app, select ‘Transfer,’ and enter your Platinum Debit Card account number."
+  },
+  {
+    "question": "Why is my savings account not linked to my credit card?",
+    "answer": "Visit a Bank Satoshi branch to link your savings account to your credit card."
+  },
+  {
+    "question": "How do I check my Time Deposit account balance online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Time Deposit,’ and view your balance."
+  },
+  {
+    "question": "What’s the daily limit for interbank transfers with a Platinum Credit Card?",
+    "answer": "The daily interbank transfer limit for a Platinum Credit Card at Bank Satoshi is IDR 100 million."
+  },
+  {
+    "question": "How do I report a debit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my mobile banking not showing my credit card?",
+    "answer": "Ensure your credit card is linked. Register it in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Regular Savings account for a minor?",
+    "answer": "Visit a Bank Satoshi branch with your ID and the minor’s birth certificate. Deposit IDR 25,000."
+  },
+  {
+    "question": "What’s the interest rate for a 48-month Time Deposit?",
+    "answer": "A 48-month Time Deposit at Bank Satoshi offers a 4.8% annual interest rate, paid at maturity."
+  },
+  {
+    "question": "How do I stop SMS notifications for my Time Deposit?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and disable Time Deposit notifications."
+  },
+  {
+    "question": "Why is my savings account transaction not reflected?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I check my credit card payment history?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Credit Card,’ and view your payment history."
+  },
+  {
+    "question": "What’s the fee for a Regular Savings passbook replacement?",
+    "answer": "A replacement passbook for Regular Savings at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable international transactions for my credit card?",
+    "answer": "Call 1500-888 or enable international transactions in the Bank Satoshi app."
+  },
+  {
+    "question": "Why is my Time Deposit account not linked to online banking?",
+    "answer": "Register your Time Deposit account in the Bank Satoshi app or at a branch."
+  },
+  {
+    "question": "How do I check my debit card transaction limits?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Debit Card,’ and view your transaction limits."
+  },
+  {
+    "question": "What’s the daily limit for online banking with a Gold Debit Card?",
+    "answer": "The daily online banking limit for a Gold Debit Card at Bank Satoshi is IDR 50 million."
+  },
+  {
+    "question": "How do I report a credit card unauthorized transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my savings account not accessible via mobile banking?",
+    "answer": "Ensure your account is linked to mobile banking. Register in the app or at a branch."
+  },
+  {
+    "question": "How do I apply for a Time Deposit account at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and deposit a minimum of IDR 5 million."
+  },
+  {
+    "question": "What’s the fee for a debit card PIN reset?",
+    "answer": "A debit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  },
+  {
+    "question": "How do I enable notifications for my Regular Savings account?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable Regular Savings notifications."
+  },
+  {
+    "question": "Why is my ATM card not working for transfers?",
+    "answer": "Ensure sufficient funds and check if transfers are enabled. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Kids Savings interest rate?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view the interest rate."
+  },
+  {
+    "question": "What’s the fee for a credit card limit review?",
+    "answer": "A credit card limit review at Bank Satoshi is free, but approval depends on your income."
+  },
+  {
+    "question": "How do I transfer money to my Time Deposit account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Transfer,’ and enter your Time Deposit account number."
+  },
+  {
+    "question": "Why is my mobile banking app not loading?",
+    "answer": "Check your internet connection and update the app. Contact 1500-888 if issues persist."
+  },
+  {
+    "question": "How do I apply for a Silver Credit Card at a branch?",
+    "answer": "Visit a Bank Satoshi branch with your ID and salary slip (minimum income IDR 3 million/month)."
+  },
+  {
+    "question": "What’s the daily limit for POS transactions with a Gold Credit Card?",
+    "answer": "The daily POS transaction limit for a Gold Credit Card at Bank Satoshi is IDR 25 million."
+  },
+  {
+    "question": "How do I check my savings account transaction history online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Account,’ and view your transaction history."
+  },
+  {
+    "question": "Why is my credit card not working for ATM withdrawals?",
+    "answer": "Ensure cash advances are enabled. Call 1500-888 to activate."
+  },
+  {
+    "question": "How do I open a Regular Savings account online?",
+    "answer": "Log in to the Bank Satoshi app, select ‘Open Account,’ upload your ID, and deposit IDR 50,000."
+  },
+  {
+    "question": "What’s the fee for a Time Deposit certificate replacement?",
+    "answer": "A replacement Time Deposit certificate at Bank Satoshi costs IDR 25,000."
+  },
+  {
+    "question": "How do I enable SMS notifications for my credit card?",
+    "answer": "Log in to the Bank Satoshi app, go to ‘Settings,’ and enable credit card SMS notifications."
+  },
+  {
+    "question": "Why is my debit card transaction not recorded?",
+    "answer": "Transactions may take 1-2 hours to reflect. Check the app or call 1500-888."
+  },
+  {
+    "question": "How do I change my Kids Savings account details?",
+    "answer": "Visit a Bank Satoshi branch with your ID and your child’s birth certificate to update details."
+  },
+  {
+    "question": "What’s the daily limit for credit card online transactions?",
+    "answer": "The daily online transaction limit is IDR 10 million for a Silver Credit Card at Bank Satoshi."
+  },
+  {
+    "question": "How do I report a savings account suspicious transaction?",
+    "answer": "Call 1500-888 immediately to report and secure your account."
+  },
+  {
+    "question": "Why is my ATM card not working for online purchases?",
+    "answer": "Ensure online purchases are enabled in the Bank Satoshi app. Call 1500-888 for assistance."
+  },
+  {
+    "question": "How do I check my Regular Savings restrictions?",
+    "answer": "Log in to the Bank Satoshi app or visit a branch to view any restrictions."
+  },
+  {
+    "question": "What’s the fee for a credit card PIN reset?",
+    "answer": "A credit card PIN reset at a Bank Satoshi branch costs IDR 10,000."
+  }
+]
