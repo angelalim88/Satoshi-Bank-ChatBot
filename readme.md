@@ -51,8 +51,8 @@ The idea for **HaloSatoshi** stemmed from frustration with the inefficiencies of
 ## Ask Bank's General Information
 ![Ask General Information](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/ask_general_info.png)
 
-## Make Account Request
-![make_accounts_request](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/make_accounts_request.png)
+## Wrong Transfer Report
+![Wrong Transfer Report](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/wrong_transfer.png)
 
 ## ⚠️ Disclaimer
 
