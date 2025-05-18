@@ -50,6 +50,9 @@ The idea for **HaloSatoshi** stemmed from frustration with the inefficiencies of
 ## Ask Bank's General Information
 ![Ask General Information](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/ask_general_info1.png)
 
+## Mobile Banking Token Replacement
+![Mobile Banking Token Replacement](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/token_replacement.png)
+
 ## Wrong Transfer Report
 ![Wrong Transfer Report](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/wrong_transfer.png)
 
@@ -62,3 +65,5 @@ The idea for **HaloSatoshi** stemmed from frustration with the inefficiencies of
 #### ⚠️ Disclaimer
 Due to GitHub repository upload limitations, the RAG model files are not included here.  
 For more information, please contact the creator/developer.
+
+
