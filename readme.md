@@ -14,17 +14,17 @@ The idea for **HaloSatoshi** stemmed from frustration with the inefficiencies of
 
 ## 💡 What is HaloSatoshi?
 
-**HaloSatoshi** is a 24/7 AI-powered chatbot service by Satoshi Bank, designed to assist customers with a wide range of requests. Whether you're seeking general information or need to report an issue, HaloSatoshi is ready to help with topics such as:
+**HaloSatoshi** is a 24/7 AI-powered chatbot service by Satoshi Bank, designed to assist customers with a wide range of requests. Whether you're seeking general information or need to report/request specific services, HaloSatoshi is ready to help with specific topics such as:
 
-- 1. Opening a new account  
-- 2. Reporting a mistaken transfer  
-- 3. Blocking an account due to repeated ATM PIN errors  
-- 4. Handling failed transactions with deducted balances  
-- 5. Recovering forgotten PIN/password  
-- 6. Requesting a new token  
-- 7. Blocking an account due to fraud  
-- 8. Updating personal data (KTP, phone number, email, etc.)  
-- 9. Reporting a lost or swallowed ATM card  
+1. Opening a new account  
+2. Reporting a mistaken transfer  
+3. Blocking an account due to repeated ATM PIN errors  
+4. Handling failed transactions with deducted balances  
+5. Recovering forgotten PIN/password  
+6. Requesting a new token  
+7. Blocking an account due to fraud  
+8. Updating personal data (KTP, phone number, email, etc.)  
+9. Reporting a lost or swallowed ATM card  
 
 ---
 
