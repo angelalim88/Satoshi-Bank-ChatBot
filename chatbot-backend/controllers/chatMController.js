@@ -3,9 +3,6 @@ const ChatSession = require('../models/chatSession');
 const ChatMessage = require('../models/chatMessage');
 const { saveMessage } = require('../services/chatService');
 
-// CHAT MESSAGE
-
-// Helper function to summarize the topic (exactly 3 words)
 const summarizeTopic = (message) => {
   const stopWords = [
     'what', 'is', 'are', 'how', 'to', 'a', 'an', 'the', 'in', 'on', 'at', 'for', 'with',
@@ -22,7 +19,6 @@ const summarizeTopic = (message) => {
   return summarized || 'General Inquiry';
 };
 
-// Function to start a new chat session, save the first message, and get a bot response
 exports.startChatSession = async (req, res) => {
   const { message } = req.body;
   if (!message) {
@@ -30,22 +26,13 @@ exports.startChatSession = async (req, res) => {
   }
 
   try {
-    // Summarize the topic from the user's first message
     const topic = summarizeTopic(message);
-
-    // Create a new chat session with the summarized topic
     const session = await ChatSession.create({ topic });
-
-    // Save the user's first message to the chat_messages table
     await saveMessage(session.id, 'user', message);
 
-    // Step 1: Retrieve relevant information using RAG
     const { retrievedAnswer, retrievedQuestion } = await ragService.executeRAG(message);
+    const systemPrompt = `You are a helpful assistant. Use the following retrieved information to answer the user's question:\nRetrieved Question: ${retrievedQuestion}\nRetrieved Answer: ${retrievedAnswer}\nProvide a concise and natural response based on this information.`;
 
-    // Step 2: Create a prompt for Ollama using the retrieved answer
-   const systemPrompt = `You are a helpful assistant. Use the following retrieved information to answer the user's question:\nRetrieved Question: ${retrievedQuestion}\nRetrieved Answer: ${retrievedAnswer}\nProvide a concise and natural response based on this information.`;
-
-    // Step 3: Call Ollama API to generate a refined response
     const ollamaResponse = await fetch('http://localhost:11434/api/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -66,10 +53,13 @@ exports.startChatSession = async (req, res) => {
     const data = await ollamaResponse.json();
     const reply = data.message.content.trim();
 
-    // Step 4: Save the bot's response to the chat_messages table
-    await saveMessage(session.id, 'bot', reply);
+    if (retrievedAnswer === "I couldn't find specific information in my dataset.") {
+      const rejectionMessage = "I’m sorry, but your question is outside the scope of our services. For more details or support, please reach out to the call center 080808 or visit the Satoshi Bank website.";
+      await saveMessage(session.id, 'bot', rejectionMessage);
+      return res.json({ sessionId: session.id, topic, reply: rejectionMessage, retrievedAnswer });
+    }
 
-    // Step 5: Return the session ID, topic, reply, and retrieved answer
+    await saveMessage(session.id, 'bot', reply);
     res.json({ sessionId: session.id, topic, reply, retrievedAnswer });
   } catch (error) {
     console.error('Error starting chat session:', error);
@@ -77,26 +67,22 @@ exports.startChatSession = async (req, res) => {
   }
 };
 
-// Function to retrieve all messages for a given session_id
 exports.getMessagesBySession = async (req, res) => {
-  const { sessionId } = req.params; // Use URL parameter for sessionId
+  const { sessionId } = req.params;
 
   try {
-    // Validate sessionId
     if (!sessionId || isNaN(sessionId)) {
       return res.status(400).json({ error: 'Valid Session ID is required' });
     }
 
-    // Check if the session exists
     const session = await ChatSession.findByPk(sessionId);
     if (!session) {
       return res.status(404).json({ error: 'Session not found' });
     }
 
-    // Retrieve all messages for the session, ordered by timestamp
     const messages = await ChatMessage.findAll({
       where: { session_id: sessionId },
-      order: [['timestamp', 'ASC']], // Order by timestamp ascending
+      order: [['timestamp', 'ASC']],
     });
 
     res.json({ sessionId, topic: session.topic, messages });
@@ -106,7 +92,6 @@ exports.getMessagesBySession = async (req, res) => {
   }
 };
 
-// Existing RAG function, updated to require sessionId
 exports.rag = async (req, res) => {
   const { message, sessionId } = req.body;
   if (!message) return res.status(400).json({ error: 'Message is required' });
@@ -140,6 +125,12 @@ exports.rag = async (req, res) => {
     const data = await ollamaResponse.json();
     const reply = data.message.content.trim();
 
+    if (retrievedAnswer === "I couldn't find specific information in my dataset.") {
+      const rejectionMessage = "I’m sorry, but your question is outside the scope of our services. For more details or support, please reach out to the call center 080808 or visit the Satoshi Bank website.";
+      await saveMessage(session.id, 'bot', rejectionMessage);
+      return res.json({ sessionId: session.id, reply: rejectionMessage, retrievedAnswer });
+    }
+
     await saveMessage(session.id, 'bot', reply);
     res.json({ sessionId: session.id, reply, retrievedAnswer });
   } catch (error) {
@@ -148,23 +139,19 @@ exports.rag = async (req, res) => {
   }
 };
 
-// Function to delete all messages for a given session_id
 exports.deleteMessagesBySession = async (req, res) => {
-  const { sessionId } = req.params; // Use URL parameter for sessionId
+  const { sessionId } = req.params;
 
   try {
-    // Validate sessionId
     if (!sessionId || isNaN(sessionId)) {
       return res.status(400).json({ error: 'Valid Session ID is required' });
     }
 
-    // Check if the session exists
     const session = await ChatSession.findByPk(sessionId);
     if (!session) {
       return res.status(404).json({ error: 'Session not found' });
     }
 
-    // Delete all messages associated with the session_id
     const deletedCount = await ChatMessage.destroy({
       where: { session_id: sessionId },
     });

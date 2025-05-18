@@ -1,20 +1,8 @@
-const BASE_URL = 'http://localhost:3000'; 
+import axiosInstance from "./axiosInstance";
 
 export const apiClient = {
-  post: async (url, data) => {
-    try {
-      const response = await fetch(`${BASE_URL}${url}`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(data),
-      });
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-      return await response.json();
-    } catch (error) {
-      console.error('API Client Error:', error);
-      throw error;
-    }
-  },
+  get: (url, config = {}) => axiosInstance.get(url, config),
+  post: (url, data, config = {}) => axiosInstance.post(url, data, config),
+  put: (url, data, config = {}) => axiosInstance.put(url, data, config),
+  delete: (url, config = {}) => axiosInstance.delete(url, config),
 };

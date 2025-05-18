@@ -17,7 +17,7 @@ const findMostSimilarQuestion = (userQuestion) => {
     const similarity = tfidf.tfidf(userQuestion, index);
     if (similarity > maxSimilarity) {
       maxSimilarity = similarity;
-      bestMatch = { ...item, similarity }; // Include similarity in the result
+      bestMatch = { ...item, similarity };
     }
   });
 

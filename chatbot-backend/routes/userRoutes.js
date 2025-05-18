@@ -11,11 +11,11 @@ const qaDataset = JSON.parse(fs.readFileSync(datasetPath, 'utf8'));
 // Chat history (stored in memory)
 let chatHistory = [];
 
-// Setup untuk cosine similarity
+// Setup cosine similarity
 const tfidf = new natural.TfIdf();
 qaDataset.forEach((item) => tfidf.addDocument(item.question));
 
-// Function to find the most similar question
+// Find the most similar question
 const findMostSimilarQuestion = (userQuestion) => {
   let maxSimilarity = 0;
   let bestMatch = null;
@@ -28,17 +28,15 @@ const findMostSimilarQuestion = (userQuestion) => {
     }
   });
 
-  // Threshold untuk similarity
+  // Threshold similarity
   return maxSimilarity > 0.3 ? bestMatch : null;
 };
 
-// Function to create prompt for Ollama
 const createPrompt = (userMessage, dataset) => {
   const qaContext = dataset
     .map((item) => `Q: ${item.question}\nA: ${item.answer}`)
     .join('\n\n');
 
-  // Ubah userMessage ke lowercase untuk pencocokan
   const normalizedUserMessage = userMessage.toLowerCase();
   const bestMatch = findMostSimilarQuestion(normalizedUserMessage);
 

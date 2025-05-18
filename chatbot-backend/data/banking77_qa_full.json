@@ -1,5 +1,104 @@
 [
   {
+  "question": "Who is the founder and owner of Satoshi Bank?",
+  "answer": "An expert programmer named Richard Angelico. You can check his profile or contact him directly via LinkedIn: https://www.linkedin.com/in/richard-angelico-9a1425259/"
+  },
+  {
+    "question": "What is your name?",
+    "answer": "My name is HaloSatoshi. I'm an AI customer service assistant available 24/7 to help you anytime, anywhere."
+  },
+  {
+    "question": "What is the name of your bank?",
+    "answer": "Our bank is called Satoshi Bank, headquartered in Dubai. For more information, please visit our official website or contact our support team."
+  },
+  {
+  "question": "Tell me more about the founder, Richard Angelico.",
+  "answer": "Richard Angelico is an entrepreneur and investor with diverse ventures in AI and blockchain industries. He owns multiple invesment holding companies, including Yongs Capital, which currently operates Satoshi Bank."
+  },
+  {
+    "question": "* Full Name: Kiko * National ID Number (NoKTP): 123234 * Contact Number: 99595 * Email Address: mantap@gmail.com",
+    "comment": "Handle response when user provides full data to open a new account",
+    "answer": "Thank you for submitting your information. We have started processing your account opening request. Please allow up to 24 hours (excluding weekends and holidays) for completion. We will update you once everything is ready."
+  },
+  {
+    "question": "* Full Name: Dita * National ID Number (NoKTP): 654321 * Contact Number: 08123456789 * Date & Time of Transaction: 2025-05-17 14:30 * Destination Account Number: 1234567890 * Amount Transferred: 1,000,000",
+    "comment": "Handle wrong transfer claim with full transaction data provided",
+    "answer": "We appreciate you providing the transaction details. Your case is now under review and being processed. Kindly wait up to 24 hours excluding weekends and public holidays. We'll get back to you with updates soon."
+  },
+  {
+    "question": "* Full Name: Andre * National ID Number (NoKTP): 777888 * Contact Number: 08129998877 * Last 4 digits of your ATM card: 1234 * Reason for unblock: entered wrong PIN multiple times",
+    "comment": "Handle ATM card unblock requests after wrong PIN attempts",
+    "answer": "Thank you for sharing the necessary details. We are currently processing your ATM unblock request. Please allow us up to one business day to complete the process. We appreciate your patience during this time."
+  },
+  {
+    "question": "* Full Name: Sarah * National ID Number (NoKTP): 222333 * Contact Number: 08998877665 * Date & Time of Transaction: 2025-05-16 10:00 * Amount Involved: 500,000 * Transaction Method: Mobile Banking",
+    "comment": "Handle investigation of failed transaction but deducted balance",
+    "answer": "Thanks for providing the transaction information. We have begun looking into the issue and will update you within 24 hours, excluding holidays and weekends. Your patience is greatly appreciated."
+  },
+  {
+    "question": "* Full Name: Budi * National ID Number (NoKTP): 555666 * Contact Number: 0811223344 * Type of PIN/Password to reset: Mobile Banking",
+    "comment": "Handle PIN or password reset requests",
+    "answer": "We received your reset request and the details provided. Your password or PIN reset is now in progress. Please wait up to 24 hours (excluding weekends and public holidays) for completion. Thank you for your understanding."
+  },
+  {
+    "question": "* Full Name: Lina * National ID Number (NoKTP): 999000 * Contact Number: 081234567 * Reason for token replacement: old token lost",
+    "comment": "Handle token replacement requests",
+    "answer": "Your token replacement request is underway after receiving your details. Kindly allow us up to 24 hours on business days to process this. We will notify you once your new token is ready."
+  },
+  {
+    "question": "* Full Name: Joko * National ID Number (NoKTP): 123123 * Contact Number: 081987654 * Brief Description of Fraud: unauthorized transfer",
+    "comment": "Handle urgent account block due to suspected fraud",
+    "answer": "We appreciate the information provided regarding the fraud incident. Your account block request is now being handled urgently. Please allow up to one working day for processing, excluding weekends and holidays."
+  },
+  {
+    "question": "* Full Name: Rini * National ID Number (NoKTP): 456456 * Contact Number: 089876543 * Data to Update: Phone Number * New Information: 081122334455",
+    "comment": "Handle update of personal data such as phone number, KTP, email",
+    "answer": "Thank you for sending the update details. We are processing your data update request and expect it to complete within 24 hours, excluding public holidays and weekends. We’ll inform you once the changes are finalized."
+  },
+  {
+    "question": "* Full Name: Ahmad * National ID Number (NoKTP): 789789 * Contact Number: 08121112222 * Last 4 digits of your ATM card: 4321 * Approximate Time of Loss: 2025-05-15 09:00",
+    "comment": "Handle lost or swallowed ATM card report and reissue",
+    "answer": "Your report regarding the lost/swallowed ATM card has been received and is now being processed. Please allow up to 24 hours on business days for us to complete the blocking and reissue procedures. Thank you for your patience."
+  },
+
+  
+  {
+    "question": "I want to open a new account.",
+    "answer": "To help you open a new account, please provide the following details:\n\n- Full Name:\n- National ID Number (NoKTP):\n- Contact Number:\n- Email Address:\n\nOnce you've submitted this information, we will begin processing your request."
+  },
+  {
+    "question": "I made a wrong transfer.",
+    "answer": "To assist you with a wrong transfer issue, please provide the following:\n\n- Full Name:\n- National ID Number (NoKTP):\n- Contact Number:\n- Date & Time of Transaction:\n- Destination Account Number:\n- Amount Transferred:\n\nWe will verify and help resolve the issue accordingly."
+  },
+  {
+    "question": "My ATM card is blocked due to wrong PIN.",
+    "answer": "To help you unblock your ATM card, kindly provide:\n\n- Full Name:\n- National ID Number (NoKTP):\n- Contact Number:\n- Last 4 digits of your ATM card:\n- Reason for unblock:\n\nYour request will be processed shortly."
+  },
+  {
+    "question": "Transaction failed but my balance was deducted.",
+    "answer": "To investigate this issue, please share the following:\n\n- Full Name:\n- National ID Number (NoKTP):\n- Contact Number:\n- Date & Time of Transaction:\n- Amount Involved:\n- Transaction Method (ATM/Mobile Banking/etc.):\n\nWe will review and follow up with the issue."
+  },
+  {
+    "question": "I forgot my PIN or password.",
+    "answer": "To reset your PIN or password, please submit:\n\n- Full Name:\n- National ID Number (NoKTP):\n- Contact Number:\n- Type of PIN/Password to reset (ATM, Mobile Banking, etc.):\n\nWe’ll assist you with the recovery process."
+  },
+  {
+    "question": "I want to request a new token device.",
+    "answer": "To request a new token device, please provide:\n\n- Full Name:\n- National ID Number (NoKTP):\n- Contact Number:\n- Reason for token replacement:\n\nWe will initiate the token issuance process."
+  },
+  {
+    "question": "I want to block my account due to fraud.",
+    "answer": "To help block your account urgently, please provide:\n\n- Full Name:\n- National ID Number (NoKTP):\n- Contact Number:\n- Brief Description of Fraud:\n\nWe’ll take action immediately to secure your account."
+  },
+  {
+    "question": "I want to update my personal data.",
+    "answer": "To update your personal data (e.g. KTP, phone number, or email), please share:\n\n- Full Name:\n- National ID Number (NoKTP):\n- Contact Number:\n- Data to Update:\n- New Information:\n\nWe’ll update your records accordingly."
+  },
+  {
+    "question": "My ATM card is lost or swallowed.",
+    "answer": "For a lost or swallowed ATM card, please provide:\n\n- Full Name:\n- National ID Number (NoKTP):\n- Contact Number:\n- Last 4 digits of your ATM card:\n- Approximate Time of Loss:\n\nWe will proceed with the block and reissue process."
+  },
+  {
     "question": "What savings accounts are available at your bank?",
     "answer": "We offer Regular Savings (minimum balance IDR 50,000), Kids Savings (for under 17 years), and Time Deposit Savings (2-5% annual interest). Visit a branch or our website for details."
   },

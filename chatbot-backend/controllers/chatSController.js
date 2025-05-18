@@ -1,12 +1,11 @@
 const ChatSession = require('../models/chatSession');
 const { createPrompt, saveMessage } = require('../services/chatService');
-// CHAT SESSION
+
 exports.chat = async (req, res) => {
   const { message, sessionId } = req.body;
   if (!message) return res.status(400).json({ error: 'Message is required' });
 
   try {
-    // Buat sesi baru jika sessionId tidak ada, atau gunakan yang ada
     let session;
     if (sessionId) {
       session = await ChatSession.findByPk(sessionId);
@@ -15,13 +14,9 @@ exports.chat = async (req, res) => {
       session = await ChatSession.create();
     }
 
-    // Simpan pesan user ke database
     await saveMessage(session.id, 'user', message);
-
-    // Buat prompt untuk Ollama
     const prompt = await createPrompt(message, session.id);
 
-    // Panggil Ollama API
     const ollamaResponse = await fetch('http://localhost:11434/api/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -42,9 +37,7 @@ exports.chat = async (req, res) => {
     const data = await ollamaResponse.json();
     const reply = data.message.content.trim();
 
-    // Simpan respon bot ke database
     await saveMessage(session.id, 'bot', reply);
-
     res.json({ sessionId: session.id, reply });
   } catch (error) {
     console.error('Error in chat controller:', error);
@@ -79,10 +72,7 @@ exports.deleteChatSession = async (req, res) => {
       return res.status(404).json({ error: 'Session not found' });
     }
 
-    // Panggil fungsi untuk menghapus semua pesan di chat_messages
     await require('./chatMController').deleteMessagesBySession({ params: { sessionId } }, { json: () => {} });
-
-    // Hapus sesi dari chat_sessions
     await ChatSession.destroy({ where: { id: sessionId } });
 
     res.json({ message: `Successfully deleted chat session with ID ${sessionId} and its messages` });
