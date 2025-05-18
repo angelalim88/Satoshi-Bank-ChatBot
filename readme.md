@@ -54,7 +54,7 @@ The idea for **HaloSatoshi** stemmed from frustration with the inefficiencies of
 ## Wrong Transfer Report
 ![Wrong Transfer Report](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/wrong_transfer.png)
 
-## ⚠️ Disclaimer
+#### ⚠️ Disclaimer
 
 Due to GitHub repository upload limitations, the RAG model files are not included here.  
 For more information, please contact the creator/developer.
