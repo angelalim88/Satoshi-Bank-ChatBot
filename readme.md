@@ -54,6 +54,9 @@ The idea for **HaloSatoshi** stemmed from frustration with the inefficiencies of
 ## Wrong Transfer Report
 ![Wrong Transfer Report](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/wrong_transfer.png)
 
+## Natural Respond
+![Natural Respond](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/natural_respond.png)
+
 ## Scope Limitation
 ![Scope Limitation](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/scope_limitation.png)
 
