@@ -51,7 +51,7 @@ The idea for **HaloSatoshi** stemmed from frustration with the inefficiencies of
 ![Ask General Information](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/ask_general_info1.png)
 
 ## Mobile Banking Token Replacement
-![Mobile Banking Token Replacement](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/token_replacement.png)
+![Mobile Banking Token Replacement](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/token_replacement2.png)
 
 ## Wrong Transfer Report
 ![Wrong Transfer Report](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/wrong_transfer.png)

@@ -41,7 +41,7 @@
     "answer": "We received your reset request and the details provided. Your password or PIN reset is now in progress. Please wait up to 24 hours (excluding weekends and public holidays) for completion. Thank you for your understanding."
   },
   {
-    "question": "* Full Name:  * National ID Number (NoKTP): 999000 * Contact Number: 081234567 * Reason for token replacement: old token lost",
+    "question": "* Full Name:  * National ID Number (NoKTP): 999000 * Contact Number: 081234567 * Reason for token replacement: old token lost or token runs out battery",
     "comment": "Handle token replacement requests",
     "answer": "Your token replacement request is underway after receiving your details. Kindly allow us up to 24 hours on business days to process this. We will notify you once your new token is ready."
   },
