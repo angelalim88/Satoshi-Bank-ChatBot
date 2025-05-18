@@ -1,7 +1,7 @@
 # HaloSatoshi Chatbot 🤖
 
-### 👀 Views: 
-![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=visitors&query=value&url=https://api.countapi.xyz/hit/angelalim88-Satoshi-Bank-ChatBot/visits)
+#### 👀 Views: 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=angelalim88/Satoshi-Bank-ChatBot&label=Views&countColor=%23263759)
 
 
 ## Motivation
