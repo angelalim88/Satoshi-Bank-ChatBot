@@ -1,7 +1,8 @@
-<h1>
-  👀 Views: <img src="https://visitor-badge.glitch.me/badge?page_id=angelalim88.Satoshi-Bank-ChatBot" />
-</h1>
 # HaloSatoshi Chatbot 🤖
+
+### 👀 Views: 
+![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=visitors&query=value&url=https://api.countapi.xyz/hit/angelalim88-Satoshi-Bank-ChatBot/visits)
+
 
 ## Motivation
 
