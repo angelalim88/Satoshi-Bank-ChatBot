@@ -48,13 +48,13 @@ The idea for **HaloSatoshi** stemmed from frustration with the inefficiencies of
 ---
 
 ## Ask Bank's General Information
-![Ask General Information](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/ask_general_info.png)
+![Ask General Information](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/ask_general_info1.png)
 
 ## Wrong Transfer Report
 ![Wrong Transfer Report](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/wrong_transfer.png)
 
 ## Natural Respond
-![Natural Respond](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/natural_respond.png)
+![Natural Respond](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/natural_respond2.png)
 
 ## Scope Limitation
 ![Scope Limitation](https://github.com/angelalim88/Satoshi-Bank-ChatBot/blob/main/images/scope_limitation.png)
