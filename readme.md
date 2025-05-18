@@ -1,6 +1,5 @@
 # HaloSatoshi Chatbot 🤖
 
-#### 👀 Views: 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=angelalim88/Satoshi-Bank-ChatBot&label=Views&countColor=%23263759)
 
 
